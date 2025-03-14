@@ -19,4 +19,4 @@ Per supportare il suo utilizzo, la comunità ha sviluppato vari strumenti, tra c
 <p></p>
     
 
-[Indice](index.html) | [>>](cominciare.html)
+[Indice](index.html) | [>>](cominciare.md)
