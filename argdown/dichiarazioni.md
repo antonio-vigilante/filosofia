@@ -44,13 +44,16 @@ Molto semplicemente, per scrivere del testo in corsivo è sufficiente inserire u
 Sappiamo dunque, da queste prime righe, che per creare uno **statement**, ossia una **dichiarazione**, possiamo semplicemente scrivere del testo, formattandolo se occorre nel modo indicato e, se vogliamo, aggiungendo dei tag. Possiamo però anche dare un titolo o nome alla nostra tesi usando le parentesi quadre seguite da due punti. Possiamo usare corsivo o grassetto o inserire link, secondo le regole del Markdown che abbiamo visto. Se lo riteniamo utile, possiamo anche aggiungere un tag.
 
  ```
-[Democrazia imperfetta]: La democrazia rappresentativa è una forma di governo imperfetta perché, pur garantendo una partecipazione politica più ampia rispetto ad altre forme di governo, tende a consolidare <b>élite politiche ed economiche</b> che limitano l'effettivo esercizio del potere da parte dei cittadini. #elitismo
+[Democrazia imperfetta]: La democrazia rappresentativa è una forma di governo imperfetta perché, 
+pur garantendo una partecipazione politica più ampia rispetto ad altre forme di governo, 
+tende a consolidare **élite politiche ed economiche** che limitano l'effettivo esercizio 
+del potere da parte dei cittadini. #elitismo
 
  ```
 Il rendering HTML di questo codice è il seguente:
 
 <figure>
-    <img src="01.PNG">
+    <img src="e_1.PNG">
  </figure>
 
 [Indice](index.md) | [<<](cominciare.md) | [>>](argmenti.md)
