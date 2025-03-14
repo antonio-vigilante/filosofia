@@ -16,4 +16,4 @@ Vedremo in seguito come installare Visual Studio Code e usare il plugin di Argdo
 
 <p></p>
 
-[Indice](Indice) | [<<](Introduzione.md) | [>>](sintassi.md)
+[Indice](Indice) | [<<](introduzione.md) | [>>](sintassi.md)
