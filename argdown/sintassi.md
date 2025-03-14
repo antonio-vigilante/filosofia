@@ -43,7 +43,9 @@ Molto semplicemente, per scrivere del testo in corsivo è sufficiente inserire u
 
 Sappiamo dunque, da queste prime righe, che per creare uno **statement**, ossia una **tesi**, possiamo semplicemente scrivere del testo, formattandolo se occorre nel modo indicato e, se vogliamo, aggiungendo dei tag. Possiamo però anche dare un titolo o nome alla nostra tesi usando le parentesi quadre, come segue (naturalmente si può usare qualsiasi titolo, possibilmente breve):
 
-
+<figure>
+    <img src="Tesi_1.PNG">
+   </figure>
 
 Possiamo far riferimento a questa tesi, nel corso della mappa, usando l'asterisco:
 
