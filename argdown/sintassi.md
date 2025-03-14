@@ -35,19 +35,15 @@ statement was @[Statement 1].
 Nelle prime righe ci sono forniti alcuni semplici elementi del **markdown**, cui Argdown si ispira e che ingloba per la formattazione del testo.
 
 <div class="info-box">
-Il **markdown** è un linguaggio di markup leggero creato da John Gruber nel 2004 con lo scopo di fornire un modo semplice e intuitivo per scrivere testi formattati. La sua sintassi è progettata per essere leggibile anche in formato plain text, rendendolo ideale per la scrittura di documentazione, blog, note e contenuti web. La sua semplicità lo rende accessibile anche a chi non ha esperienza con linguaggi di markup più complessi come HTML o LaTeX. Alcune fomattazioni del testo (corsivo, grassetto, barrato, sottolineato) sono supportate anche dalla popolare app di messagistica WhatsApp.
+Il <b>markdown</b> è un linguaggio di markup leggero creato da John Gruber nel 2004 con lo scopo di fornire un modo semplice e intuitivo per scrivere testi formattati. La sua sintassi è progettata per essere leggibile anche in formato plain text, rendendolo ideale per la scrittura di documentazione, blog, note e contenuti web. La sua semplicità lo rende accessibile anche a chi non ha esperienza con linguaggi di markup più complessi come HTML o LaTeX. Alcune fomattazioni del testo (corsivo, grassetto, barrato, sottolineato) sono supportate anche dalla popolare app di messagistica WhatsApp.
 </div>
 
 
 Molto semplicemente, per scrivere del testo in corsivo è sufficiente inserire un trattino basso prima e dopo la parola, (`_testo_`); per ottenere un testo in grassetto, il trattino basso dovrà essere doppio (`__testo__`), per taggare una parola useremo l'asterisco (`#testo`), mentre per collegare una parola ad un link faremo così: `[parola](https://www.sitointernet.com)`.
 
-Sappiamo dunque, da queste prime righe, che per creare uno \textit{statement}, ossia una \textit{tesi}, possiamo semplicemente scrivere del testo, formattandolo se occorre nel modo indicato e, se vogliamo, aggiungendo dei tag. Possiamo però anche dare un titolo o nome alla nostra tesi usando le parentesi quadre, come segue (naturalmente si può usare qualsiasi titolo, possibilmente breve):
+Sappiamo dunque, da queste prime righe, che per creare uno **statement**, ossia una **tesi**, possiamo semplicemente scrivere del testo, formattandolo se occorre nel modo indicato e, se vogliamo, aggiungendo dei tag. Possiamo però anche dare un titolo o nome alla nostra tesi usando le parentesi quadre, come segue (naturalmente si può usare qualsiasi titolo, possibilmente breve):
 
-{\footnotesize
-\begin{verbatim}
-[Tesi_1]: Testo della tesi
-\end{verbatim}
-}
+
 
 Possiamo far riferimento a questa tesi, nel corso della mappa, usando l'asterisco:
 
