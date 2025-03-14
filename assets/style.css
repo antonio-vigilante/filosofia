@@ -97,9 +97,5 @@ img {
     gap: 10px;
 }
 
-.info-box::before {
-    content: '\26A0'; /* Simbolo di avviso ⚠ */
-    font-size: 20px;
-    color: #856404;
-}
+
 
