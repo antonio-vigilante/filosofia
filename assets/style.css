@@ -3,7 +3,7 @@ p {
 }
 
 img {
-  border-radius: 10px; /* Arrotonda gli angoli con un raggio di 10px */
+  border-radius: 0px; /* Arrotonda gli angoli con un raggio di 10px */
   border: 0px solid #ccc; /* Aggiunge un bordo intorno all'immagine */
 }
 
