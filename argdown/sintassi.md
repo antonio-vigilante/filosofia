@@ -43,9 +43,10 @@ Molto semplicemente, per scrivere del testo in corsivo è sufficiente inserire u
 
 Sappiamo dunque, da queste prime righe, che per creare uno **statement**, ossia una **tesi**, possiamo semplicemente scrivere del testo, formattandolo se occorre nel modo indicato e, se vogliamo, aggiungendo dei tag. Possiamo però anche dare un titolo o nome alla nostra tesi usando le parentesi quadre, come segue (naturalmente si può usare qualsiasi titolo, possibilmente breve):
 
-<figure>
-    <img src="tesi_1.PNG">
-   </figure>
+ ```
+[Tesi_1]: Testo della tesi
+ ```
+
 
 Possiamo far riferimento a questa tesi, nel corso della mappa, usando l'asterisco:
 
@@ -56,3 +57,7 @@ Possiamo far riferimento a questa tesi, nel corso della mappa, usando l'asterisc
 }
 
 Ora che abbiamo la tesi, dobbiamo aggiungere argomenti a favore o contrari. Per aggiungere un argomento a favore della tesi, andiamo nella riga successiva, lasciamo uno spazio, digitiamo + e scriviamo il testo di un argomento \textit{a favore} della tesi, mentre digiteremo - per un argomento contrario:
+
+<figure>
+    <img src="tesi_1.PNG">
+   </figure>
