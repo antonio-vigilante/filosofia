@@ -1,12 +1,12 @@
 ## Insallare
 
-### Installazioen su Windows
+### Installazione su Windows
 
 L'installazione di Argdown avviene attraverso riga di comando. Può spaventare chi sia abituato a installare software cliccando su un file .exe, ma in realtà è una procedura estremamente semplice.
 Vediamo come fare passo dopo passo.
 Apriamo il menu Start (in basso a sinistra sul monitor), digitiamo cmd e premiamo Invia. 
 <figure>
-  <a href="cmd.PNG">
+  <img src="cmd.PNG">
 </figure>
 
 
