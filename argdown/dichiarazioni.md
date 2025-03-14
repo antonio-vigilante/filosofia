@@ -61,4 +61,4 @@ Questa invece è la mappa corrispondente:
     <img src="01b.PNG">
     </figure>
 
-[Indice](index.md) | [<<](dichiarazioni.md) | [>>]
+[Indice](index.md) | [<<](cominciare.md) | [>>]
