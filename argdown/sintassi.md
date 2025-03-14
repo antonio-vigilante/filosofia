@@ -41,21 +41,16 @@ Il <b>markdown</b> è un linguaggio di markup leggero creato da John Gruber nel 
 
 Molto semplicemente, per scrivere del testo in corsivo è sufficiente inserire un trattino basso prima e dopo la parola, (`_testo_`); per ottenere un testo in grassetto, il trattino basso dovrà essere doppio (`__testo__`), per taggare una parola useremo l'asterisco (`#testo`), mentre per collegare una parola ad un link faremo così: `[parola](https://www.sitointernet.com)`.
 
-Sappiamo dunque, da queste prime righe, che per creare uno **statement**, ossia una **tesi**, possiamo semplicemente scrivere del testo, formattandolo se occorre nel modo indicato e, se vogliamo, aggiungendo dei tag. Possiamo però anche dare un titolo o nome alla nostra tesi usando le parentesi quadre, come segue (naturalmente si può usare qualsiasi titolo, possibilmente breve):
+### Le dichiarazioni
+
+Sappiamo dunque, da queste prime righe, che per creare uno **statement**, ossia una **dichiarazione**, possiamo semplicemente scrivere del testo, formattandolo se occorre nel modo indicato e, se vogliamo, aggiungendo dei tag. Possiamo però anche dare un titolo o nome alla nostra tesi usando le parentesi quadre, come segue (naturalmente si può usare qualsiasi titolo, possibilmente breve). Possiamo poi aggiungere argomenti favorevoli o contrari. Per aggiungere un argomento a favore della tesi andiamo nella riga successiva, rientriamo di uno spazio, digitiamo + e scriviamo il testo di un argomento _a favore_ della tesi, mentre digiteremo - per un argomento contrario, come nel seguente esempio:
 
  ```
-[Tesi_1]: Testo della tesi
- ```
-
-
-Possiamo far riferimento a questa tesi, nel corso della mappa, usando l'asterisco:
+[Deterrenza inefficace]: L'introduzione della pena di morte ha reale effetto di deterrenza.
+ + <Paura>: La paura della pena di morte dissuade i criminali dal commettere omicidi.
+ - <Statistiche>: Le statistiche non mostrano una diminuzione dei reati gravi nei Paesi in cui c'è la pena di morte.
 
  ```
-@Tesi_1
- ```
 
-Ora che abbiamo la tesi, dobbiamo aggiungere argomenti a favore o contrari. Per aggiungere un argomento a favore della tesi, andiamo nella riga successiva, lasciamo uno spazio, digitiamo + e scriviamo il testo di un argomento \textit{a favore} della tesi, mentre digiteremo - per un argomento contrario:
 
-<figure>
-    <img src="tesi_1.PNG">
-   </figure>
+
