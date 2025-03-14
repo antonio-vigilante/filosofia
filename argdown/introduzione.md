@@ -15,3 +15,5 @@ Dopo la sua creazione, Argdown ha trovato applicazione in vari ambiti. In filoso
 Per supportare il suo utilizzo, la comunità ha sviluppato vari strumenti, tra cui un editor online che permette di scrivere e visualizzare mappe argomentative in tempo reale, un plugin per Visual Studio Code e librerie JavaScript per l’integrazione con siti web e applicazioni.
 
 <div class="info-box">Un linguaggio di <b>markup</b> è un sistema di annotazione testuale che utilizza simboli speciali per definire la struttura e il significato del contenuto. Esempi comuni sono HTML, LaTeX e Markdown. Questi linguaggi permettono di separare la formattazione dalla presentazione, facilitando la creazione di documenti ben strutturati. </div>
+
+[Indice](index.html) | [Come iniziare](cominciare.html)
