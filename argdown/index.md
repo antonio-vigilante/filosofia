@@ -4,4 +4,4 @@
 
 [Introduzione](introduzione.md)  
 [Cosa ci serve per cominciare](cominciare.md)  
-[Sintassi di base](sintassi.md)  
+[Le dichiarazioni e gli argomenti](dichiarazioni.md)  
