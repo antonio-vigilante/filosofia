@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../assets/style.css">
 
-### Sintassi di base
+### Le dichiarazioni e gli argomenti
 
 Entriamo quindi nella [sandbox](https://argdown.org/sandbox/html). Troviamo nella finestra a sinistra del codice, che viene elaborato (_rendering_) nella finestra a destra.  
 
@@ -41,9 +41,7 @@ Il <b>markdown</b> è un linguaggio di markup leggero creato da John Gruber nel 
 
 Molto semplicemente, per scrivere del testo in corsivo è sufficiente inserire un trattino basso prima e dopo la parola, (`_testo_`); per ottenere un testo in grassetto, il trattino basso dovrà essere doppio (`__testo__`), per taggare una parola useremo l'asterisco (`#testo`), mentre per collegare una parola ad un link faremo così: `[parola](https://www.sitointernet.com)`.
 
-### Le dichiarazioni
-
-Sappiamo dunque, da queste prime righe, che per creare uno **statement**, ossia una **dichiarazione**, possiamo semplicemente scrivere del testo, formattandolo se occorre nel modo indicato e, se vogliamo, aggiungendo dei tag. Possiamo però anche dare un titolo o nome alla nostra tesi usando le parentesi quadre, come segue (naturalmente si può usare qualsiasi titolo, possibilmente breve). Possiamo poi aggiungere argomenti favorevoli o contrari. Per aggiungere un argomento a favore della tesi andiamo nella riga successiva, rientriamo di uno spazio, digitiamo + e scriviamo il testo di un argomento _a favore_ della tesi, mentre digiteremo - per un argomento contrario, come nel seguente esempio ([esempio 1](esempio01.html)):
+Sappiamo dunque, da queste prime righe, che per creare uno **statement**, ossia una **dichiarazione**, possiamo semplicemente scrivere del testo, formattandolo se occorre nel modo indicato e, se vogliamo, aggiungendo dei tag. Possiamo però anche dare un titolo o nome alla nostra tesi usando le parentesi quadre, come segue (naturalmente si può usare qualsiasi titolo, possibilmente breve). Possiamo poi aggiungere argomenti favorevoli o contrari. Per aggiungere un argomento a favore della tesi andiamo nella riga successiva, rientriamo di uno spazio, digitiamo + e scriviamo il testo di un argomento _a favore_ della tesi, mentre digiteremo - per un argomento contrario; i titoli degli argomenti vanno tra parentesi uncinate.
 
  ```
 [Deterrenza inefficace]: L'introduzione della pena di morte ha reale effetto di deterrenza.
@@ -63,3 +61,4 @@ Questa invece è la mappa corrispondente:
     <img src="01b.PNG">
     </figure>
 
+[Indice](index.html) | [<<] | [>>]
