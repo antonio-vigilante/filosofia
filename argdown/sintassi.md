@@ -50,11 +50,9 @@ Sappiamo dunque, da queste prime righe, che per creare uno **statement**, ossia 
 
 Possiamo far riferimento a questa tesi, nel corso della mappa, usando l'asterisco:
 
-{\footnotesize
-\begin{verbatim}
+ ```
 @Tesi_1
-\end{verbatim}
-}
+ ```
 
 Ora che abbiamo la tesi, dobbiamo aggiungere argomenti a favore o contrari. Per aggiungere un argomento a favore della tesi, andiamo nella riga successiva, lasciamo uno spazio, digitiamo + e scriviamo il testo di un argomento \textit{a favore} della tesi, mentre digiteremo - per un argomento contrario:
 
