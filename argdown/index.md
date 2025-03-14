@@ -4,4 +4,5 @@
 
 [Introduzione](introduzione.md)  
 [Cosa ci serve per cominciare](cominciare.md)  
-[Le dichiarazioni](dichiarazioni.md)  
+[Le dichiarazioni](dichiarazioni.md)   
+[Installare Argdown](installazione.md)  
