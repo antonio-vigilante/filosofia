@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../assets/style.css">
 
-### Le dichiarazioni e gli argomenti
+### Le dichiarazioni 
 
 Entriamo quindi nella [sandbox](https://argdown.org/sandbox/html). Troviamo nella finestra a sinistra del codice, che viene elaborato (_rendering_) nella finestra a destra.  
 
@@ -41,24 +41,15 @@ Il <b>markdown</b> è un linguaggio di markup leggero creato da John Gruber nel 
 
 Molto semplicemente, per scrivere del testo in corsivo è sufficiente inserire un trattino basso prima e dopo la parola, (`_testo_`); per ottenere un testo in grassetto, il trattino basso dovrà essere doppio (`__testo__`), per taggare una parola useremo l'asterisco (`#testo`), mentre per collegare una parola ad un link faremo così: `[parola](https://www.sitointernet.com)`.
 
-Sappiamo dunque, da queste prime righe, che per creare uno **statement**, ossia una **dichiarazione**, possiamo semplicemente scrivere del testo, formattandolo se occorre nel modo indicato e, se vogliamo, aggiungendo dei tag. Possiamo però anche dare un titolo o nome alla nostra tesi usando le parentesi quadre, come segue (naturalmente si può usare qualsiasi titolo, possibilmente breve). Possiamo poi aggiungere argomenti favorevoli o contrari. Per aggiungere un argomento a favore della tesi andiamo nella riga successiva, rientriamo di uno spazio, digitiamo + e scriviamo il testo di un argomento _a favore_ della tesi, mentre digiteremo - per un argomento contrario; i titoli degli argomenti vanno tra parentesi uncinate.
+Sappiamo dunque, da queste prime righe, che per creare uno **statement**, ossia una **dichiarazione**, possiamo semplicemente scrivere del testo, formattandolo se occorre nel modo indicato e, se vogliamo, aggiungendo dei tag. Possiamo però anche dare un titolo o nome alla nostra tesi usando le parentesi quadre seguite da due punti. Possiamo usare corsivo o grassetto o inserire link, secondo le regole del Markdown che abbiamo visto. Se lo riteniamo utile, possiamo anche aggiungere un tag.
 
  ```
-[Deterrenza inefficace]: L'introduzione della pena di morte ha reale effetto di deterrenza.
- + <Paura>: La paura della pena di morte dissuade i criminali dal commettere omicidi.
- - <Statistiche>: Le statistiche non mostrano una diminuzione dei reati gravi nei Paesi in cui c'è la pena di morte.
+[Democrazia imperfetta]: La democrazia rappresentativa è una forma di governo imperfetta perché, pur garantendo una partecipazione politica più ampia rispetto ad altre forme di governo, tende a consolidare <b>élite politiche ed economiche</b> che limitano l'effettivo esercizio del potere da parte dei cittadini. #elitismo
 
  ```
 Il rendering HTML di questo codice è il seguente:
 
-<figure>
-    <img src="01a.PNG">
-    </figure>
 
-Questa invece è la mappa corrispondente:
 
-<figure>
-    <img src="01b.PNG">
-    </figure>
 
-[Indice](index.md) | [<<](cominciare.md) | [>>]
+
