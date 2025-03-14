@@ -84,3 +84,22 @@ img {
 .button.purple:hover {
   background-color: #red;
 }
+
+.info-box {
+    background-color: #fff3cd; /* Giallo chiaro */
+    border-left: 5px solid #ffa502; /* Bordo a sinistra per evidenziarlo */
+    padding: 15px;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+    color: #856404;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.info-box::before {
+    content: '\26A0'; /* Simbolo di avviso ⚠ */
+    font-size: 20px;
+    color: #856404;
+}
+
