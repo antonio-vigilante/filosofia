@@ -49,7 +49,11 @@ Sappiamo dunque, da queste prime righe, che per creare uno **statement**, ossia 
  ```
 Il rendering HTML di questo codice è il seguente:
 
+<figure>
+    <img src="01.PNG">
+ </figure>
 
+[Indice](index.md) | [<<](cominciare.md) | [>>](argmenti.md)
 
 
 
