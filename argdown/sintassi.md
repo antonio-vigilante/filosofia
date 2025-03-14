@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../assets/style.css">
+
 ### Sintassi di base
 
 Entriamo quindi nella [sandbox](https://argdown.org/sandbox/html). Troviamo nella finestra a sinistra del codice, che viene elaborato (_rendering_) nella finestra a destra.  
