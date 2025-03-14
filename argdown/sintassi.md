@@ -43,7 +43,7 @@ Molto semplicemente, per scrivere del testo in corsivo è sufficiente inserire u
 
 ### Le dichiarazioni
 
-Sappiamo dunque, da queste prime righe, che per creare uno **statement**, ossia una **dichiarazione**, possiamo semplicemente scrivere del testo, formattandolo se occorre nel modo indicato e, se vogliamo, aggiungendo dei tag. Possiamo però anche dare un titolo o nome alla nostra tesi usando le parentesi quadre, come segue (naturalmente si può usare qualsiasi titolo, possibilmente breve). Possiamo poi aggiungere argomenti favorevoli o contrari. Per aggiungere un argomento a favore della tesi andiamo nella riga successiva, rientriamo di uno spazio, digitiamo + e scriviamo il testo di un argomento _a favore_ della tesi, mentre digiteremo - per un argomento contrario, come nel seguente esempio:
+Sappiamo dunque, da queste prime righe, che per creare uno **statement**, ossia una **dichiarazione**, possiamo semplicemente scrivere del testo, formattandolo se occorre nel modo indicato e, se vogliamo, aggiungendo dei tag. Possiamo però anche dare un titolo o nome alla nostra tesi usando le parentesi quadre, come segue (naturalmente si può usare qualsiasi titolo, possibilmente breve). Possiamo poi aggiungere argomenti favorevoli o contrari. Per aggiungere un argomento a favore della tesi andiamo nella riga successiva, rientriamo di uno spazio, digitiamo + e scriviamo il testo di un argomento _a favore_ della tesi, mentre digiteremo - per un argomento contrario, come nel seguente esempio ([esempio 1](esempio01.html)):
 
  ```
 [Deterrenza inefficace]: L'introduzione della pena di morte ha reale effetto di deterrenza.
