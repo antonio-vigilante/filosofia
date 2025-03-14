@@ -1,5 +1,24 @@
-<link rel="stylesheet" href="../assets/style.css">
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Argdown su GitHub</title>
+    <script src="https://unpkg.com/@argdown/web-components"></script>
+</head>
+<body>
+    <h1>Visualizzazione Argdown</h1>
+    
+    <argdown-map>
+    ```
+    [Deterrenza inefficace]: L'introduzione della pena di morte ha reale effetto di deterrenza.
 
-## Esempio 1
+    <Paura>: La paura della pena di morte dissuade i criminali dal commettere omicidi.
+    <Statistiche>: Le statistiche non mostrano una diminuzione dei reati gravi nei Paesi in cui c'è la pena di morte.
 
-<div class="argdown"><div data-line="1" class="statement has-line top-level"><span id="statement-deterrenza-inefficace" class="definition statement-definition definiendum top-level">[<span class="title statement-title">Deterrenza inefficace</span>]: </span><span class="statement-content top-level">L'introduzione della pena di morte ha reale effetto di deterrenza.</span><div class="relations"><div data-line="2" class="has-line outgoing support relation"><div class="outgoing support relation-symbol"><span>+</span></div><div data-line="2" class="argument has-line"><a id="argument-paura" href="#argument-paura" class="definition argument-definition definiendum">&lt;<span class="title argument-title">Paura</span>&gt;: </a><span class="statement-content">La paura della pena di morte dissuade i criminali dal commettere omicidi.</span></div></div><div data-line="3" class="has-line outgoing attack relation"><div class="outgoing attack relation-symbol"><span>-</span></div><div data-line="3" class="argument has-line"><a id="argument-statistiche" href="#argument-statistiche" class="definition argument-definition definiendum">&lt;<span class="title argument-title">Statistiche</span>&gt;: </a><span class="statement-content">Le statistiche non mostrano una diminuzione dei reati gravi nei Paesi in cui c'è la pena di morte.</span></div></div></div></div></div>
+    [Deterrenza inefficace] -> <Paura>
+    [Deterrenza inefficace] - > <Statistiche>
+    ```
+    </argdown-map>
+</body>
+</html>
