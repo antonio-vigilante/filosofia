@@ -3,5 +3,5 @@
 ### Guida a Argdown
 
 [Introduzione](introduzione.md)  
-[Cosa ci serve per cominciare](cominciare.md)
+[Cosa ci serve per cominciare](cominciare.md)  
 [Sintassi di base](sintassi.md)  
