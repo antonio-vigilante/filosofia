@@ -4,4 +4,4 @@
 
 [Introduzione](introduzione.md)  
 [Cosa ci serve per cominciare](cominciare.md)  
-[Le dichiarazioni e gli argomenti](dichiarazioni.md)  
+[Le dichiarazioni](dichiarazioni.md)  
