@@ -54,10 +54,14 @@ Sappiamo dunque, da queste prime righe, che per creare uno **statement**, ossia 
 Il rendering HTML di questo codice è il seguente:
 
 <figure>
-    <img src="01.PNG" alt="Sandbox">
+    <img src="01a.PNG" alt="Sandbox">
     <figcaption>Come si presenta la sandbox di Argdown</figcaption>
 </figure>
 
+Questa invece è la mappa corrispondente:
 
-
+<figure>
+    <img src="01b.PNG" alt="Sandbox">
+    <figcaption>Come si presenta la sandbox di Argdown</figcaption>
+</figure>
 
