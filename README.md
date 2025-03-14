@@ -1,2 +1,1 @@
-# filosofia
-Strumenti digitali per la didattica della filosofia
+<link rel="stylesheet" href="./assets/style.css">
