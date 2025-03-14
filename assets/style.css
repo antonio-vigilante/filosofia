@@ -27,7 +27,7 @@ img {
 
 .button {
   display: inline-block;
-  padding: 3px 20px 100px;
+  padding: 3px 20px;
   font-size: 16px;
   color: #fff;
   text-align: center;
@@ -89,6 +89,7 @@ img {
     background-color: #fff3cd; /* Giallo chiaro */
     border: 2px solid #ffa502; /* Bordo evidenziato */
     padding: 3px 20px;
+    margin-bottom: 20px; /* Aggiunge spazio sotto il box */
     border-radius: 8px;
     font-family: Arial, sans-serif;
     color: #856404;
