@@ -51,6 +51,13 @@ Sappiamo dunque, da queste prime righe, che per creare uno **statement**, ossia 
  - <Statistiche>: Le statistiche non mostrano una diminuzione dei reati gravi nei Paesi in cui c'è la pena di morte.
 
  ```
+Il rendering HTML di questo codice è il seguente:
+
+<figure>
+    <img src="01.PNG" alt="Sandbox">
+    <figcaption>Come si presenta la sandbox di Argdown</figcaption>
+</figure>
+
 
 
 
