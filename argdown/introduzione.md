@@ -1,6 +1,8 @@
-## Introduzione
+<link rel="stylesheet" href="../assets/style.css">
 
-Argdown è uno strumento per la rappresentazione e l'analisi di argomentazioni in forma testuale e grafica. È particolarmente utile per la mappatura argomentativa nella didattica della filosofia e nell'analisi del dibattito critico. È un linguaggio di markup leggero (simile a Markdown) che permette di strutturare e visualizzare argomentazioni sotto forma di testo e di grafico. 
+### Introduzione
+
+Argdown è uno strumento per la rappresentazione e l'analisi di argomentazioni in forma testuale e grafica. È particolarmente utile per la mappatura argomentativa nella didattica della filosofia e nell'analisi del dibattito critico. È un linguaggio di <b>markup</b> leggero (simile a Markdown) che permette di strutturare e visualizzare argomentazioni sotto forma di testo e di grafico. 
 
 Argdown nasce attorno al 2017 come progetto open-source, sviluppato da Christian Voigt e altri ricercatori interessati all'argomentazione strutturata e alla visualizzazione delle relazioni tra proposizioni. Il progetto è stato fortemente influenzato da studi sulla teoria dell’argomentazione e sulla rappresentazione grafica dei ragionamenti.
 
@@ -12,4 +14,4 @@ Dopo la sua creazione, Argdown ha trovato applicazione in vari ambiti. In filoso
 
 Per supportare il suo utilizzo, la comunità ha sviluppato vari strumenti, tra cui un editor online che permette di scrivere e visualizzare mappe argomentative in tempo reale, un plugin per Visual Studio Code e librerie JavaScript per l’integrazione con siti web e applicazioni.
 
-<div class="info-box">Un linguaggio di **markup** è un sistema di annotazione testuale che utilizza simboli speciali per definire la struttura e il significato del contenuto. Esempi comuni sono HTML, LaTeX e Markdown. Questi linguaggi permettono di separare la formattazione dalla presentazione, facilitando la creazione di documenti ben strutturati. </div>
+<div class="info-box">Un linguaggio di <b>markup</b>b> è un sistema di annotazione testuale che utilizza simboli speciali per definire la struttura e il significato del contenuto. Esempi comuni sono HTML, LaTeX e Markdown. Questi linguaggi permettono di separare la formattazione dalla presentazione, facilitando la creazione di documenti ben strutturati. </div>
