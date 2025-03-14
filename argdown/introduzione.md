@@ -16,7 +16,7 @@ Per supportare il suo utilizzo, la comunità ha sviluppato vari strumenti, tra c
 
 <div class="info-box">Un linguaggio di <b>markup</b> è un sistema di annotazione testuale che utilizza simboli speciali per definire la struttura e il significato del contenuto. Esempi comuni sono HTML, LaTeX e Markdown. Questi linguaggi permettono di separare la formattazione dalla presentazione, facilitando la creazione di documenti ben strutturati. </div>
 
-
+<p></p>
     
 
-[Indice](index.html) | [Cosa ci serve per cominciare](cominciare.html)
+[Indice](index.html) | [>>](cominciare.html)
