@@ -5,11 +5,10 @@
 Per iniziare a usare Argdown non serve avere competenze informatiche avanzate. Il modo più semplice per provarlo è utilizzare la [sandbox](https://argdown.org/sandbox/html) di Argdown}, uno spazio online che permette di scrivere e visualizzare mappe argomentative senza dover installare nulla. Basta aprire il link, scrivere un testo seguendo una sintassi molto intuitiva e vedere immediatamente il risultato in forma grafica.
 
 
-\begin{figure}[h]
-    \centering
-    \makebox[\textwidth]{\includegraphics[width=1.0\textwidth]{sandbox.PNG}}
-    \caption{\small Come si presenta la sandbox di Argdown}
-\end{figure}
+<figure>
+    <img src="sandbox.PNG" alt="Sandbox">
+    <figcaption>Come si presenta la sandbox di Argwodn</figcaption>
+</figure>
 
 Per un uso avanzato si raccomanda tuttavia di scaricare e installare Visual Studio Code, un programma gratuito che, con il plugin di Argdown, offre un ambiente più completo per scrivere e analizzare argomentazioni.  
 
