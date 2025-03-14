@@ -2,7 +2,7 @@
 
 ### Cosa ci serve per cominciare
 
-Per iniziare a usare Argdown non serve avere competenze informatiche avanzate. Il modo più semplice per provarlo è utilizzare la [sandbox](https://argdown.org/sandbox/html) di Argdown}, uno spazio online che permette di scrivere e visualizzare mappe argomentative senza dover installare nulla. Basta aprire il link, scrivere un testo seguendo una sintassi molto intuitiva e vedere immediatamente il risultato in forma grafica.
+Per iniziare a usare Argdown non serve avere competenze informatiche avanzate. Il modo più semplice per provarlo è utilizzare la [sandbox](https://argdown.org/sandbox/html) di Argdown, uno spazio online che permette di scrivere e visualizzare mappe argomentative senza dover installare nulla. Basta aprire il link, scrivere un testo seguendo una sintassi molto intuitiva e vedere immediatamente il risultato in forma grafica.
 
 
 <figure>
