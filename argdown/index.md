@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../assets/style.css">
 
-### Guida a Argdown
+## Guida a Argdown
 
 [Introduzione](introduzione.md)  
 [Cosa ci serve per cominciare](cominciare.md)  
