@@ -8,5 +8,7 @@ Questo repository è legato all'insegnamento di Esercitazioni di didattica della
 
 
 
- 
-|Antonio Vigilante | antoniovigilante@autistici.org|
+--- 
+Antonio Vigilante  
+antoniovigilante@autistici.org  
+Licenza CC-BY-NC  
