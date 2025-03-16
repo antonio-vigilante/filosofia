@@ -62,9 +62,14 @@ Selezionando invece il box con l'argomento, si apre questo menu.
 
 Oltre a modificare l'aspetto del box, ad esempio impostando un colore dello sfondo, possiamo allegare un file oppure aggiungere una nota selezionando _Edit notes_; in questo caso si aprirà la sidebar, come abbiamo visto in precedenza.
 
-Possiamo aggiungere una nota rapida -- una sorta di post-it -- selezionando _Add sticky note_ nel menu in alto a destra.
+Possiamo aggiungere una nota rapida - una sorta di post-it - selezionando _Add sticky note_ nel menu in alto a destra.
+
+![image](https://github.com/user-attachments/assets/29a9ffdd-5e0a-43e1-92dd-f25588ef3a10)
+
 
 ![image](https://github.com/user-attachments/assets/0a1576e4-7f68-4528-ac77-e2cfb84c48ea)
+
+
 
 
 
