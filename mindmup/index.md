@@ -48,4 +48,23 @@ Come si vede, questo modo di procedere crea però un problema di leggibilità de
 
 ![image](https://github.com/user-attachments/assets/5a313caf-58e6-4b52-9bc6-f20eb99d0704)
 
+### Formattazione della mappa
+
+Cliccando su uno dei nodi della mappa apriamo il menu seguente.
+
+![image](https://github.com/user-attachments/assets/b590cfef-9dbe-4bb2-ae98-f912b572d1f4)
+
+Selezionando _Stronger_ possiamo aumentare lo spessore della linea, mentre con _Weaker_ la rendiamo più sottile. Interessante è la voce _Label line_. Selezionandola si apre una finestra di testo, che ci consente di inserire del testo, ad esempio per specificare il legame tra la tesi e l'argomento. L'ultima voce, _Add arrow_, ci consente di aggiungere una freccia. Di base, la freccia punta verso il box con l'argomento, ma è possibile selezionare una freccia che punti verso la tesi o ancora fare in modo che vi siano frecce alle due estremità della linea.
+
+Selezionando invece il box con l'argomento, si apre questo menu.
+
+![image](https://github.com/user-attachments/assets/a385cc73-4e01-4cfd-84da-0b6fefb9d4a2)
+
+Oltre a modificare l'aspetto del box, ad esempio impostando un colore dello sfondo, possiamo allegare un file oppure aggiungere una nota selezionando _Edit notes_; in questo caso si aprirà la sidebar, come abbiamo visto in precedenza.
+
+Possiamo aggiungere una nota rapida -- una sorta di post-it -- selezionando _Add sticky note_ nel menu in alto a destra.
+
+![image](https://github.com/user-attachments/assets/0a1576e4-7f68-4528-ac77-e2cfb84c48ea)
+
+
 
