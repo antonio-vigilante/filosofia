@@ -36,6 +36,16 @@ Cliccando, compare una linea verde verticale e si apre un box con un cursore che
 
 ![image](https://github.com/user-attachments/assets/089ac35d-ab3e-45d3-aa6c-82615ef20c83)
 
+Per aggiungere una obiezione, selezioniamo la mano con il pollice verso. Comparirà una linea rossa e si aprirà un box in cui inserire l'obiezione.
+Possiamo aggiungere dunque le nostre ragioni e favore e contro la tesi, con limiti dettati solo dalla leggibilità della mappa.
 
+![image](https://github.com/user-attachments/assets/b6edc697-88b7-4cc5-b04a-e1acff005cc6)
+
+Questo è il primo livello della mappa. È possibile creare un secondo livello aggiungendo obiezioni agli argomenti favorevoli o contrari del primo livello. Per farlo, selezioniamo il box con l'argomento e procediamo come abbiamo fatto in precedenza. È possibile procedere allo stesso modo per creare un terzo, un quarto livello e così via.
+![image](https://github.com/user-attachments/assets/5c687617-30bb-4fbb-8dc2-b334ab71c60b)
+
+Come si vede, questo modo di procedere crea però un problema di leggibilità della mappa. Poiché discutere vuol dire fare obiezioni, le linee rosse finiscono per diventare presto prevalenti, e a colpo d'occhio è difficile trovare gli argomenti a favore della tesi e quelli contrari. Un modo per rendere la mappa più leggibile è quello di inserire sempre come _reason_ (pollice su) gli argomenti che sono a favore della tesi, anche quando sono obiezioni. La mappa precedente in questo caso si presenta come segue.
+
+![image](https://github.com/user-attachments/assets/5a313caf-58e6-4b52-9bc6-f20eb99d0704)
 
 
