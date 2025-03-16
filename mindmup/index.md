@@ -8,4 +8,8 @@ _MindMup Argument Visualization (MAV)_ è una versione della piattaforma adattat
 
 ### Login
 
-Entrati [nel sito](https://www.mindmup.com/tutorials/argument-visualization.html?orig=/) abbiamo due possibilità: possiamo creare una mappa con MindMup Gold oppure su Google Drive. Nel primo caso, le nostre mappe saranno pubbliche; per renderle private bisognerà sottoscrivere un abbonamento a MindMup Gold. È senz'altro preferibile creare le mappe salvandole sul nostr Google Drive. 
+Entrati [nel sito](https://www.mindmup.com/tutorials/argument-visualization.html?orig=/) abbiamo due possibilità: possiamo creare una mappa con MindMup Gold oppure su Google Drive. Nel primo caso, le nostre mappe saranno pubbliche; per renderle private bisognerà sottoscrivere un abbonamento a MindMup Gold. È senz'altro preferibile creare le mappe salvandole sul nostro Google Drive. 
+Questa è l'area di lavoro.
+<figure>
+<img src="mav_01.PNG">
+</figure>figure>
