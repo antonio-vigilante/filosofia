@@ -4,3 +4,9 @@ Questo repository è legato all'insegnamento di Esercitazioni di didattica della
 
 [Guida a MindMup Argument Visualization](https://antonio-vigilante.github.io/filosofia/mindmup/index.html)  
 [Guida a Argdown](https://antonio-vigilante.github.io/filosofia/argdown/index.html)
+
+
+
+
+ 
+|Antonio Vigilante | antoniovigilante@autistici.org|
