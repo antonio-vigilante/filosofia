@@ -20,3 +20,12 @@ Al centro abbiamo un box con la scritta "Press Space or double-click to edit". S
 
 ![image](https://github.com/user-attachments/assets/6337b26b-a87a-40f4-a898-fbd473f7bdcd)
 
+Cliccando con il tast destro sul box si apre un menu con diverse opzioni.
+
+![image](https://github.com/user-attachments/assets/ce6bdb52-5089-403a-8135-cc499d057287)
+
+Possiamo editare il box (_node_), ossia modificare il testo che abbiamo appena inserito; possiamo cambiare lo stile, scegliendo il font, il colore dello sfondo, del testo e del bordo e la forma più o meno arrotondata del box; possiamo caricare una immagine da affiancare al testo e, funzione particolarmente interessante, possiamo aggiungere una nota. Selezionando _Edit notes_ si apre una sidebar nella quale è possibile inserire del testo in cui presentare in modo più approfondito il tema di discussione.
+
+![image](https://github.com/user-attachments/assets/9f9b6491-cd0b-4f29-b94d-efe16aa31441)
+
+
