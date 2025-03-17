@@ -6,7 +6,7 @@ Questo repository è legato all'insegnamento di _Esercitazioni di didattica dell
 
 Gli esercizi filosofici sono uno strumento fondamentale per passare dallo _studio della filosofia_ alla _pratica filosofica_.
 
-Mappare gli enti (ontologia)
+[Mappare gli enti (ontologia)](mappare-gli-enti.md)
 
 ### Mappe argomentative
 
