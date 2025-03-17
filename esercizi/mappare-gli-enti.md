@@ -25,6 +25,7 @@ Gli studenti, divisi in gruppi di 4-5 persone, condividono le loro liste e ident
 
 - **Creazione di una mappa**
 Ogni gruppo crea una mappa della propria classificazione degli enti, usando strumenti analogici o digitali; nel primo caso la mappa viene comunque digitalizzata per essere mostrata alla classe alla lavagna elettronica.
+
 - **Sintesi e confronto tra gruppi**
 Ogni gruppo presenta la propria classificazione alla classe, spiegando i criteri adottati e le difficoltà incontrate. Il confronto tra le diverse mappe concettuali aiuta a mettere in discussione i criteri di categorizzazione e a riflettere sulla loro arbitrarietà o necessità.
 
