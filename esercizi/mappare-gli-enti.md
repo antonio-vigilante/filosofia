@@ -1,7 +1,7 @@
-<link rel="stylesheet" href="./assets/style.css">
+<link rel="stylesheet" href="../assets/style.css">
 
 <div class="callout">
-Esercizi filosofici--
+Esercizi filosofici
 </div>
 
 ## Mappare gli enti
