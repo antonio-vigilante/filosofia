@@ -86,14 +86,20 @@ Possiamo aggiungere una nota rapida - una sorta di post-it - selezionando _Add s
 <img src="m11.png">
 </figure>
 
-
 <figure>
 <img src="m12.png">
 </figure>
+ 
 
-
-
-
+Dalla voce del menu _View_ è possibile poi selezionare _map theme_ e scegliere quattro impostazioni della mappa:
+- _Argument visualization standard_: la mappa di base
+- _Argument visualization high impact_: visualizzazione ad alto impatto; le linee diventano più spesse e compaiono le etichette _but_ per le obiezioni e _because_ per le ragioni a favore.
+- _Argument visualization bottom up_: la mappa viene rovesciata.
+- _Argument visualization bottom up high impact_: la mappa viene rovesciata e visualizzata ad alto impatto.
+ 
+    <figure>
+<img src="m13.png">
+</figure>
 
 
 
