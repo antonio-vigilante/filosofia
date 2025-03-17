@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../assets/style.css">
 
-<div class="callout">
+<div class="button orange">
 Esercizi filosofici
 </div>
 
