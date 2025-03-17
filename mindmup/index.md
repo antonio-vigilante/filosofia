@@ -133,16 +133,16 @@ Per ogni genere di download è possibile anche salvare il file in Google Drive.
 
 Possiamo pubblicare la mappa cliccando su _Publish_ in alto a destra. Compare una finestra che ci avverte che la mappa diventerà pubblica, non potrà essere cancellata e verrà cancellata automaticamente dopo sei mesi. Selezionando _Share_ invece possiamo scegliere di condividere la nostra mappa o con alcune persone selezionate tra i nostri contatti o con chiunque abbia il link.
 
-### Come usare MindMup AP
+### Come usare MindMup AV
 
 Per la sua facilità di uso, _MindMup AV_ è uno strumento di grande utilità per mappare per così dire in presa diretta le discussioni filosofiche in classe. Il docente può aggiungere gli argomenti e le obiezioni mano mano che vengono presentati dagli studenti. A mappa conclusa, è possibile fare una ricognizione critica di tutta la discussione. La mappa può essere salvata nel sito didattico o nella piattaforma di social classroom della classe.
 
 Il docente può costruire una mappa argomentativa anche per rendere più chiari i passaggi logici di un pensatore, illustrandone il pensiero, o come supporto all'analisi del testo filosofico. Non è possibile invece usare _MindMup AV_ come strumento per la discussione in tempo reale; lo strumento più adatto in questo caso è _Kialo-Edu_.
 
 ---
-Antonio Vigilante
-antoniovigilante@autistici.org
-Licenza CC-BY-NC
+Antonio Vigilante  
+antoniovigilante@autistici.org  
+Licenza CC-BY-NC  
  
 
 
