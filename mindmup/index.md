@@ -97,16 +97,16 @@ Dalla voce del menu _View_ è possibile poi selezionare _map theme_ e scegliere 
 - _Argument visualization bottom up_: la mappa viene rovesciata.
 - _Argument visualization bottom up high impact_: la mappa viene rovesciata e visualizzata ad alto impatto.
  
-    <figure>
+<figure>
 <img src="immagini/m13.png">
 </figure>
 
 ### Storyboard
 
-Una funzionalità particolarmente interessante di _MAV_ è la possibiltà di trasformare la mappa argomentativa in uno _storyboard_ o _presentazione_.
+Una funzionalità particolarmente interessante di _MindMup AV_ è la possibiltà di trasformare la mappa argomentativa in uno _storyboard_ o _presentazione_.
 Dal menu _View_ si selezione _Sidebar_ e quindi _Show Storyboard_. 
 
-    <figure>
+<figure>
 <img src="immagini/m14.png">
 </figure>
 
@@ -115,6 +115,37 @@ Per aggiungere _scene_ o _diapositive_ allo _Storyboard_ possiamo procedere in d
 <figure>
 <img src="immagini/m15.png">
 </figure>
+
+Le slide possono poi essere riordinate, spostandole in avanti o indietro, utilizzando le icone con la freccia a sinistra e a destra (situate accanto alle icone per creare una slide.
+
+### Esportare, pubblicare e condividere le mappe
+
+Una volta terminate, le mappe possono essere scaricate dal menu _File_ -> _Download as_. È possibile salvare la mappa nei seguenti formati:
+- _MindMup_. Formato del file .mup. La mappa non potrà essere aperta sul proprio computer, mancanco una versione desktop di MindMup; potrà invece essere ricaricata nella piattaforma online, dal menu _File_ -> _Open_.
+- _Freemind_. Formato del file .mm. [Freemind](https://freemind.sourceforge.io/wiki/index.php/Main_Page) è un ottimo software gratuito per la realizzazione di mappe concettuali.
+- Immagine, nei tre formati SVG, JPG e PNG.
+- PDF
+- _Outline_. In questo caso si salva solo il testo. È possibile scegliere diversi formati: Microsoft Word/Writer, Markdown, HTML ed altr più tecnici. È possibile anche scegliere una formattazione di base.
+- _Notes_. Vengono salvare solo le note associate alla mappa, in formato Microsoft Word/Writer, Markdown o HTML.
+- _Storyboard_. Viene salvato solo lo _storyboard_, in formato PPT (Power Point), PDF o DOC.
+
+Per ogni genere di download è possibile anche salvare il file in Google Drive.
+
+Possiamo pubblicare la mappa cliccando su _Publish_ in alto a destra. Compare una finestra che ci avverte che la mappa diventerà pubblica, non potrà essere cancellata e verrà cancellata automaticamente dopo sei mesi. Selezionando _Share_ invece possiamo scegliere di condividere la nostra mappa o con alcune persone selezionate tra i nostri contatti o con chiunque abbia il link.
+
+### Come usare MindMup AP
+
+Per la sua facilità di uso, _MindMup AV_ è uno strumento di grande utilità per mappare per così dire in presa diretta le discussioni filosofiche in classe. Il docente può aggiungere gli argomenti e le obiezioni mano mano che vengono presentati dagli studenti. A mappa conclusa, è possibile fare una ricognizione critica di tutta la discussione. La mappa può essere salvata nel sito didattico o nella piattaforma di social classroom della classe.
+
+Il docente può costruire una mappa argomentativa anche per rendere più chiari i passaggi logici di un pensatore, illustrandone il pensiero, o come supporto all'analisi del testo filosofico. Non è possibile invece usare _MindMup AV_ come strumento per la discussione in tempo reale; lo strumento più adatto in questo caso è _Kialo-Edu_.
+
+---
+Antonio Vigilante
+antoniovigilante@autistici.org
+Licenza CC-BY-NC
+ 
+
+
 
 
 
