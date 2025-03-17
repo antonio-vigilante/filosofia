@@ -101,9 +101,19 @@ Dalla voce del menu _View_ è possibile poi selezionare _map theme_ e scegliere 
 <img src="immagini/m13.png">
 </figure>
 
+### Storyboard
 
+Una funzionalità particolarmente interessante di _MAV_ è la possibiltà di trasformare la mappa argomentativa in uno _storyboard_ o _presentazione_.
+Dal menu _View_ si selezione _Sidebar_ e quindi _Show Storyboard_. 
 
+    <figure>
+<img src="immagini/m14.png">
+</figure>
 
+Per aggiungere _scene_ o _diapositive_ allo _Storyboard_ possiamo procedere in due modi. Possiamo semplicemente trascinare con il mouse uno dei box/nodi della mappa, che verrà trasformato in diapositiva, oppure possiamo cliccare sul box e selezionare _Create slide from node_.
+
+<figure>
+<img src="immagini/m15.png">
 </figure>
 
 
