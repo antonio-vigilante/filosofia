@@ -1,5 +1,11 @@
 <link rel="stylesheet" href="../assets/style.css">
 
+<div class="button orange">
+Mappe argomentative
+</div>
+
+## Guida a Argdown
+
 ### Introduzione
 
 Argdown è uno strumento per la rappresentazione e l'analisi di argomentazioni in forma testuale e grafica. È particolarmente utile per la mappatura argomentativa nella didattica della filosofia e nell'analisi del dibattito critico. È un linguaggio di <b>markup</b> leggero (simile a Markdown) che permette di strutturare e visualizzare argomentazioni sotto forma di testo e di grafico. 
