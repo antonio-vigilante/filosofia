@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="./assets/style.css">
 
-Questo repository è legato all'insegnamento di Esercitazioni di didattica della filosofia presso l'Università di Siena.
+Questo repository è legato all'insegnamento di _Esercitazioni di didattica della filosofia_ presso l'Università di Siena.
 
 ### Mappe argomentative
 
