@@ -1,3 +1,7 @@
+<div class="callout">
+Esercizi filosofici
+</div>
+
 ## Mappare gli enti
 
 ### Obiettivi
