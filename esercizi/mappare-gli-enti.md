@@ -27,8 +27,8 @@ Ogni gruppo presenta la propria classificazione alla classe, spiegando i criteri
 Il docente guida una discussione generale sui problemi filosofici sollevati dall’attività. Si possono introdurre riferimenti alle grandi tradizioni ontologiche, dalla classificazione aristotelica degli enti alle discussioni moderne sulla metafisica delle categorie. Gli studenti sono invitati a riflettere su come le categorie influenzino la nostra percezione della realtà e il modo in cui costruiamo conoscenza.
 
 ---
-Antonio Vigilante
-antoniovigilante@autistici.org
+Antonio Vigilante  
+antoniovigilante@autistici.org  
 Licenza CC-BY-NC
 
 
