@@ -1,6 +1,12 @@
-## Installare Argdown
+<div class="button orange">
+Mappe argomentative
+</div>
 
-### Installazione su Windows
+## Guida a Argdown
+
+### Installare Argdown
+
+#### Installazione su Windows
 
 Per usare Argdown abbiamo bisogno di Node.js. [Wikipedia ci informa](https://it.wikipedia.org/wiki/Node.js) che Node.js è "un runtime system open source multipiattaforma orientato agli eventi per l'esecuzione di codice JavaScript, costruito sul motore JavaScript V8 di Google Chrome". Per fortuna non abbiamo bisogno di capire esattamente cosa significhi; ci è sufficiente sapere che è uno strumento di cui abbiamo bisogno. E che, per fortuna, è molto facile da installare. Ci basta andare [nel sito di Node.js](https://nodejs.org/en/), cliccare su Download Node.js, avviare il file che abbiamo scaricato e seguire le istruzioni.
 
