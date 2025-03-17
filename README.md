@@ -2,6 +2,12 @@
 
 Questo repository è legato all'insegnamento di _Esercitazioni di didattica della filosofia_ presso l'Università di Siena.
 
+### Esercizi filosofici
+
+Gli esercizi filosofici sono uno strumento fondamentale per passare dallo _studio della filosofia_ alla _pratica filosofica_.
+
+Mappare gli enti (ontologia)
+
 ### Mappe argomentative
 
 Le mappe argomentative sono strumenti grafici che rappresentano la struttura logica di un'argomentazione, evidenziando le relazioni tra tesi, premesse e obiezioni. Il loro impiego nella didattica della filosofia aiuta a sviluppare il pensiero critico, migliorare la comprensione dei testi e organizzare le idee per la scrittura e il dibattito. Visualizzando il processo del ragionamento, rendono esplicita la coerenza logica e facilitano l'analisi delle fallacie.
