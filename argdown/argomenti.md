@@ -14,7 +14,7 @@ Si veda questo esempio.
  + <Giustizia>: La pena di morte risponde a un semplice bisogno di giustizia; per chi ha tolto 
 la vita il carcere non è una pena sufficiente.
  -<Errore giudiziario>: Con la pena di morte c'è il rischio di condannare innocenti.
- - <Discriminazione>: La pena di morte può essere usata soprattutto verso gli appartenenti a una
+ -<Discriminazione>: La pena di morte può essere usata soprattutto verso gli appartenenti a una
  minoranza, come accade negli Stati Uniti, dove ad essere condannati a morte sono per lo più persone
 dalla pelle nera.
 ```
