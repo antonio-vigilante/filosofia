@@ -59,7 +59,7 @@ del potere da parte dei cittadini. #elitismo
 Il rendering HTML di questo codice è il seguente:
 
 <figure>
-    <img src="e_1.PNG">
+    <img src="immagini/E01.PNG">
  </figure>
 
 [Indice](index.md) | [<<](cominciare.md) | [>>](argmenti.md)
