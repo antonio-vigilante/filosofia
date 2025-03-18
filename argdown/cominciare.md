@@ -12,7 +12,7 @@ Per iniziare a usare Argdown non serve avere competenze informatiche avanzate. I
 
 
 <figure>
-    <img src="sandbox.PNG" alt="Sandbox">
+    <img src="immagini/sandbox.PNG" alt="Sandbox">
     <figcaption>Come si presenta la sandbox di Argdown</figcaption>
 </figure>
 
