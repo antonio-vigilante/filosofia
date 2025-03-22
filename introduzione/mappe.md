@@ -39,26 +39,20 @@ In questo brano, la tesi principale è che la libertà autentica consista nel po
 
 A questa tesi si può opporre il controargomento secondo cui un’eccessiva enfasi sull’autonomia individuale potrebbe minacciare la coesione sociale o la tutela dei più deboli. La confutazione possibile, implicita nel pensiero di Mill, è che ogni limitazione della libertà deve essere giustificata da un danno concreto ad altri, non da una concezione paternalistica del bene comune.
 
-La mappa argomentativa potrebbe quindi essere strutturata visivamente in questo modo:
+La mappa argomentativa potrebbe quindi essere strutturata visivamente in questo modo:[^1]
 
-```
-[Libertà senza danneggiare]: La libertà consiste nel cercare il proprio bene a proprio modo, 
-finché non si danneggiano gli altri.
- +<Sovranità>: Ogni individuo è sovrano su se stesso, sul proprio corpo e sulla propria mente.
- +<Libertà essenziale>: Solo la libertà permette la scoperta autentica del bene personale.
- -<Minaccia alla coesione>: L’enfasi sull’autonomia può minacciare la coesione sociale.
-  -<Solo danno concreto>: Le limitazioni alla libertà sono giustificate solo dal danno concreto ad altri, non da concezioni eteronome del bene.
-```
+<figure>
+ <img src="immagini/mill.png">
+</figure>
 
 
+### Uso della mappa argomentativa nella discussione in classe
+
+Le mappe argomentative possono essere usate in diversi modi come strumento per la discussione in classe. In docente può costruire alla Lim la mappa argomentativa raccogliendo gli argomenti e i controargomenti degli studenti. Quando la mappa è completa, si può passare all'analisi e alla valutazione della forza di tutti gli argomenti.
+
+Per questo scopo si possono usare strumenti come MindMup AV o Argdown. Un uso più attivo e coinvolgente è consentito da Kialo-edu. In questo caso gli studenti inserisco autonomamente le loro argomentazioni e interagiscono con i propri compagni; la discussione si sposta online e si struttura visivamente man mano che cresce. 
 
 
-### Uso della mappa argomentativa nella discussione guidata in classe
 
-In classe la mappa argomentativa può diventare uno strumento di mediazione didattica estremamente efficace, capace di stimolare il coinvolgimento attivo degli studenti e di strutturare la discussione filosofica in modo rigoroso. Una delle modalità più fruttuose è la costruzione collettiva della mappa, a partire dalla lettura di un testo o dalla proposta di una tesi da discutere. Il docente, in questo caso, svolge il ruolo di facilitatore, guidando gli studenti nell’identificazione delle tesi, nella formulazione degli argomenti, nella proposta di obiezioni e nella discussione delle risposte possibili. La mappa viene costruita sulla lavagna o sulla LIM, con il contributo di tutta la classe.
 
-Un’altra modalità consiste nell’organizzare la classe attorno a una discussione su una tesi controversa (ad esempio: "La libertà è un’illusione"). Gli studenti, divisi in gruppi, devono costruire una mappa argomentativa a favore o contro la tesi proposta, sostenendo le proprie posizioni con argomenti strutturati. In seguito i gruppi espongono il proprio lavoro e discutono con gli altri, valutando la coerenza logica e la forza persuasiva delle argomentazioni. Il docente può concludere con un debriefing in cui si ripercorre la struttura generale delle argomentazioni emerse, mettendo in luce gli snodi concettuali più rilevanti.
-
-La valutazione delle mappe può essere orientata alla valorizzazione del pensiero critico, della capacità di argomentare, della chiarezza espositiva e dell’attitudine al confronto. Le mappe prodotte possono anche diventare il punto di partenza per la redazione di testi argomentativi scritti o per ulteriori attività di approfondimento.
-
-i Mill, comprendere le sue giustificazioni, valutare le obiezioni e farsi un’opinione personale in merito. Questo approccio, se sistematicamente applicato, può trasformare radicalmente il modo in cui si insegna e si apprende filosofia, rendendo ogni lezione un’occasione di autentico esercizio del pensiero.
+[1]: Mappa creata con Argdown.
