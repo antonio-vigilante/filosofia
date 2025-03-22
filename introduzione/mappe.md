@@ -61,5 +61,8 @@ Per questo scopo si possono usare strumenti come MindMup AV o Argdown. Un uso pi
 
 
 
-[1]: Mappa creata con Argdown.
+[^1]: Mappa creata con Argdown.
+
+
+
 
