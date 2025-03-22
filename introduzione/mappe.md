@@ -52,7 +52,7 @@ La mappa argomentativa potrebbe quindi essere strutturata visivamente in questo 
 </figure>
 
 
-### Uso della mappa argomentativa nella discussione in classe
+### Uso delle mappe argomentative nella discussione in classe
 
 Le mappe argomentative possono essere usate in diversi modi come strumento per la discussione in classe. In docente può costruire alla Lim la mappa argomentativa raccogliendo gli argomenti e i controargomenti degli studenti. Quando la mappa è completa, si può passare all'analisi e alla valutazione della forza di tutti gli argomenti.
 
