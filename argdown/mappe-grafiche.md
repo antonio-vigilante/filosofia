@@ -15,3 +15,8 @@ Questo invece è il rendering in Dagre D3:
 <figure>
   <img src="immagini/e05.png">
 </figure>
+
+Come si vede, gli argomenti a favore della dichiarazione sono collegati ad essa da linee verdi che terminano con una freccia, mentre quelli contrari sono collegati da linee rosse.
+
+È possibile modificare l'aspetto delle linee e la risposizione dei box modificando il codice.
+
