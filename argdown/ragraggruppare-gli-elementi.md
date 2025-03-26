@@ -28,13 +28,14 @@ Osserviamo questo esempio:
 Il rendering HTML è il seguente:
 
 <figure>
-  <img src="immagini/gr01.png">
+  <img src="immagini/gruppi01.png">
 </figure>
 
 La mappa grafica invece si presenta come segue:
 
 <figure>
-  <img src="immagini/gr02.png">
+  <img src="immagini/gruppi02.png">
 </figure>
 
-Come si vede, gli elementi ora sono raggruppati. C'è un grande gruppo che racchiude
+Come si vede, gli elementi ora sono raggruppati. Ci sono due gruppi, uno dei quali include un sottogruppo. Per ottenere questo risultato grafico Argdown fa uso della sintassi usata per formattare i titoli in Markdown. Come abbiamo già visto, per un titolo generale si usa `# Titolo`, mentre per un titolo di paragrafo si ricorre a un doppio cancelletto, `## Titolo del paragrafo` e a tre cancelletti per il titolo di un sottoparagrafo, `### Titolo sottoparagrafo`. In Argdown questi titoli strutturano la mappa in gruppi e sottogruppi.
+
