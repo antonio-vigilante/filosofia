@@ -7,13 +7,13 @@ Fino ad ora abbiamo considerato il rendering HTML del codice. Cliccando sulla vo
 La nostra mappa sula pena di morte si presenta in questo modo nel formato Viz Js:
 
 <figure>
-  <img src="immagini/e04.png">
+  <img src="immagini/mappa01.png">
 </figure>
 
 Questo invece è il rendering in Dagre D3:
 
 <figure>
-  <img src="immagini/e05.png">
+  <img src="immagini/mappa02.png">
 </figure>
 
 Come si vede, gli argomenti a favore della dichiarazione sono collegati ad essa da linee verdi che terminano con una freccia, mentre quelli contrari sono collegati da linee rosse.
