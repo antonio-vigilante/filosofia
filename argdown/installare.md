@@ -15,7 +15,7 @@ Vediamo come fare passo dopo passo.
 
 Apriamo il menu Start (in basso a sinistra sul monitor), digitiamo cmd e premiamo Invia. 
 <figure>
-  <img src="cmd.png">
+  <img src="immagini/cmd.png">
 </figure>
 
 Nella finestra che si apre digitiamo
