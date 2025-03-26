@@ -39,5 +39,5 @@ La mappa grafica invece si presenta come segue:
 
 Come si vede, gli elementi ora sono raggruppati. Ci sono due gruppi, uno dei quali include un sottogruppo. Per ottenere questo risultato grafico Argdown fa uso della sintassi usata per formattare i titoli in Markdown. Come abbiamo già visto, per un titolo generale si usa `# Titolo`, mentre per un titolo di paragrafo si ricorre a un doppio cancelletto, `## Titolo del paragrafo` e a tre cancelletti per il titolo di un sottoparagrafo, `### Titolo sottoparagrafo`. In Argdown questi titoli strutturano la mappa in gruppi e sottogruppi.
 
-Si noti la freccia rossa che va da T1 e T3 a T2. È stata ottenuta semplicemente scrivendo `-> [T2]` nella tesi 1 e 3. 
+Si noti la freccia rossa che va da T1 e T3 a T2. È stata ottenuta semplicemente scrivendo `-> [T2]` nelle tesi 1 e 3. 
 
