@@ -1,4 +1,10 @@
-## Raggruppare gli elementi
+<div class="button orange">
+Mappe argomentative
+</div>
+
+## Guida a Argdown
+
+### Raggruppare gli elementi
 
 Osserviamo questo esempio:
 
