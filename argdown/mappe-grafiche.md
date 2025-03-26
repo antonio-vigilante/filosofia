@@ -18,5 +18,22 @@ Questo invece è il rendering in Dagre D3:
 
 Come si vede, gli argomenti a favore della dichiarazione sono collegati ad essa da linee verdi che terminano con una freccia, mentre quelli contrari sono collegati da linee rosse.
 
-È possibile modificare l'aspetto delle linee e la risposizione dei box modificando il codice.
+Se si desidera invertire la direzione della freccia, occore modificare il codice come segue:
+
+```
+[A]: a.
+ +> <a1>: a1.
+ + <a2>: a2
+ -><b1>: b1
+ -<b2>: b2
+```
+
+Il risultato è questo:
+
+<figure>
+  <img src="immagini/mappa03.png">
+</figure>
+
+Gli argomenti contrassegnati con `+>` e `->` risultano in uscita dalla dichiarazione, con una freccia che punta verso di essi.
+
 
