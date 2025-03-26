@@ -11,4 +11,5 @@ Mappe argomentative
 [Le dichiarazioni](dichiarazioni.md)   
 [Gli argomenti](argomenti.md)  
 [Le mappe grafiche](mappe-grafiche.md)  
+[Raggruppare gli elementi](raggruppare-gli-elementi.md)  
 [Installare Argdown](installare.md)  
