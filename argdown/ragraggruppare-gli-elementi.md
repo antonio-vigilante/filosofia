@@ -5,20 +5,20 @@ Osserviamo questo esempio:
 ```
 # Esempio
 
-## Primo gruppo
+## Gruppo
 
 [T1]: Tesi 1
  + <Arg 1>: Primo argomento
  + <Arg 2>: Secondo argomento
  -> [T2]
 
-## Secondo gruppo
+## Gruppo
 
 [T2]: Tesi 2
  - <Arg 3>: Primo argomento
  + <Arg 4>: Secondo argomento
 
-## Primo sottogruppo
+### Sottogruppo
 
 [T3]: Tesi 3
  - <Arg 5>: Primo argomento
@@ -36,3 +36,5 @@ La mappa grafica invece si presenta come segue:
 <figure>
   <img src="immagini/gr02.png">
 </figure>
+
+Come si vede, gli elementi ora sono raggruppati. C'è un grande gruppo che racchiude
