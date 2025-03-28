@@ -7,7 +7,7 @@ Una volta terminata la mappa, rinominiamo il file, modificando l'estensione da `
 Ora dobbiamo generare la mappa. Nella cartella che contiene il file della mappa, clicchiamo contemporaneamente il tasto destro del mouse e il tasto `Maiuscolo` sulla tastiera (si trova a sinistra sopra il tasto `Ctrl`). Si aprirà questa finestra:
 
 <figure>
-  <img src="immagini/poweshell.png>
+  <img src="immagini/powershell.png">
 </figure>
 
 Selezionando Apri finestra PowerShell qui
