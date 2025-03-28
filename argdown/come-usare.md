@@ -9,3 +9,8 @@ Ora dobbiamo generare la mappa. Nella cartella che contiene il file della mappa,
 <figure>
   <img src="immagini/poweshell.png>
 </figure>
+
+Selezionando Apri finestra PowerShell qui
+
+
+
