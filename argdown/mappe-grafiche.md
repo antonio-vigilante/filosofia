@@ -36,4 +36,5 @@ Il risultato è questo:
 
 Gli argomenti contrassegnati con `+>` e `->` risultano in uscita dalla dichiarazione, con una freccia che punta verso di essi.
 
+[Indice](index.md) | [<<](argomenti.md) | [>>](raggruppare-gli-elementi.md)
 
