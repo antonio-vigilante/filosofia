@@ -7,4 +7,10 @@ Kialo permette agli utenti di analizzare un'affermazione centrale (la tesi) e di
 
 Sia Kialo che Kialo-Edu sono interamente gratuiti e liberi da pubblicità.
 
-Dopo essersi registrati è possibile esplorare una
+Dopo essersi registrati è possibile esplorare una discussione di esempio in inglese.
+<figure>
+  <img src="./immagini/kjalo-01.png">
+</figure>
+<figure>
+  <img src="./immagini/kjalo-02.png">
+</figure>
