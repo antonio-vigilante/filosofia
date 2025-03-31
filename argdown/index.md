@@ -13,3 +13,7 @@ Mappe argomentative
 [Le mappe grafiche](mappe-grafiche.md)  
 [Raggruppare gli elementi](raggruppare-gli-elementi.md)  
  
+---
+Antonio Vigilante
+antoniovigilante@autistici.org
+Licenza CC-BY-NC
