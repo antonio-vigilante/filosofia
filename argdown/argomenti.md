@@ -61,5 +61,5 @@ Modus ponens
 ```
 
  
-
+[Indice](index.md) | [<<](dichiarazioni.md) | [>>](mappe-grafiche.md)
 
