@@ -47,3 +47,5 @@ Come si vede, gli elementi ora sono raggruppati. Ci sono due gruppi, uno dei qua
 
 Si noti la freccia rossa che va da T1 e T3 a T2. È stata ottenuta semplicemente scrivendo `-> [T2]` nelle tesi 1 e 3. 
 
+[Indice](index.md) | [<<](mappa-grafiche.md)  
+
