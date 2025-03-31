@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../assets/style.css">
+
 <div class="button orange">
 Mappe argomentative
 </div>
