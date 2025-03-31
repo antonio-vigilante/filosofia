@@ -13,10 +13,18 @@ Kialo permette agli utenti di analizzare un'affermazione centrale (la tesi) e di
 
 Sia Kialo che Kialo-Edu sono interamente gratuiti e liberi da pubblicità.
 
-Dopo essersi registrati è possibile esplorare una discussione di esempio in inglese.
+Dopo essersi registrati è possibile esplorare una discussione di esempio in inglese. Il tema è: "I giovani dovrebbero essere obbligati a svolgere un anno di servizio nazionale."
+La discussione si presenta come segue:
+
 <figure>
   <img src="immagini/kjalo-01.png">
 </figure>
+
+I cerchi concentrici raffigurano in modo sintetico ed efficace lo sviluppo della discussione: nel primo cerchio sono inclusi i primi argomenti a favore (verdi) e contrari (rossi), nel secondo cerchio i primi contro-argomenti e così via.
+
+È possibile impostare una diversa visualizzazione alibitando la navigazione ramificata. Si ottiene la seguente schermata: 
+
+
 <figure>
   <img src="immagini/kjalo-02.png">
 </figure>
