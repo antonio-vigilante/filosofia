@@ -15,7 +15,7 @@ In questa sezione offro una guida essenziale ad alcuni strumenti digitali, in or
 
 [Le mappe argomentative](introduzione/mappe.md)  
 [Guida a MindMup Argument Visualization](https://antonio-vigilante.github.io/filosofia/mindmup/index.html)  
-[Guida a Kjalo-Edu](https://antonio-vigilante.github.io/filosofia/kjalo/kjalo-edu.md)  
+[Guida a Kjalo-Edu](https://antonio-vigilante.github.io/filosofia/kjalo/index.html)  
 [Guida a Argdown](https://antonio-vigilante.github.io/filosofia/argdown/index.html)
 
 
