@@ -1,3 +1,9 @@
+<link rel="stylesheet" href="../assets/style.css">
+
+<div class="button orange">
+Mappe argomentative
+</div>
+
 ## Kjalo-Edu
 
 [Kialo](https://www.kialo.com) è una piattaforma online creata nel 2017 de Errikos Pitsos, laureato alla London School of Economics and Political Science. 
@@ -9,8 +15,8 @@ Sia Kialo che Kialo-Edu sono interamente gratuiti e liberi da pubblicità.
 
 Dopo essersi registrati è possibile esplorare una discussione di esempio in inglese.
 <figure>
-  <img src="./immagini/kjalo-01.png">
+  <img src="immagini/kjalo-01.png">
 </figure>
 <figure>
-  <img src="./immagini/kjalo-02.png">
+  <img src="immagini/kjalo-02.png">
 </figure>
