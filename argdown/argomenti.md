@@ -1,4 +1,12 @@
-## Gli argomenti
+<link rel="stylesheet" href="../assets/style.css">
+
+<div class="button orange">
+Mappe argomentative
+</div>
+
+## Guida a Argdown
+
+### Gli argomenti
 
 Ogni dichiarazione può essere sostenuta da una serie di argomenti a favore o contrari. Per aggiungere argomenti si procede come segue:
 - Si va a capo dopo aver scritto la dichiarazione.
