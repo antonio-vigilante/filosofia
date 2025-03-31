@@ -62,7 +62,7 @@ Il rendering HTML di questo codice è il seguente:
     <img src="immagini/e01.png">
  </figure>
 
-[Indice](index.md) | [<<](cominciare.md) | [>>](argmenti.md)
+[Indice](index.md) | [<<](cominciare.md) | [>>](argomenti.md)
 
 
 
