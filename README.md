@@ -2,6 +2,11 @@
 
 Questo repository è legato all'insegnamento di _Esercitazioni di didattica della filosofia_ presso l'Università di Siena.
 
+## Pratiche dialogiche
+
+[La Maieutica Reciproca](maieutica-reciproca.md)  
+[Il Debate](debate.md)  
+
 ### Esercizi filosofici
 
 Gli esercizi filosofici sono uno strumento fondamentale per passare dallo _studio della filosofia_ alla _pratica filosofica_.
