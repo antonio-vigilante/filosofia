@@ -4,8 +4,8 @@ Questo repository è legato all'insegnamento di _Esercitazioni di didattica dell
 
 ## Pratiche dialogiche
 
-[La Maieutica Reciproca](maieutica-reciproca.md)  
-[Il Debate](debate.md)  
+[La Maieutica Reciproca](maieutica/index.md)  
+[Il Debate](debate/index.md)  
 
 ### Esercizi filosofici
 
