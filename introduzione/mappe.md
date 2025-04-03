@@ -35,7 +35,7 @@ Attraverso la mappatura si può ricostruire la logica dell’autore, rendendo ev
 La mappa può essere utilizzata anche per l’analisi critica: una volta ricostruita l’argomentazione dell’autore, lo studente può valutarne la forza logica, riconoscere eventuali fallacie o presupposti impliciti, proporre controargomentazioni e riflessioni personali. In questo modo, l’analisi del testo non si limita a un esercizio di comprensione, ma si trasforma in un laboratorio di pensiero critico.
 
 
-Esempio: Mappa argomentativa da un passo di John Stuart Mill
+### Un esempio
 
 Prendiamo in esame un celebre passo di John Stuart Mill, tratto da _Sulla libertà_:
 
