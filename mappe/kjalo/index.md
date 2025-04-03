@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../assets/style.css">
+<link rel="stylesheet" href=".../assets/style.css">
 
 <div class="button orange">
 Mappe argomentative
@@ -53,7 +53,7 @@ Se clicchiamo ancora sull'icona con il callout, a destra dell'icona con il cappe
 
 Abbiamo qui quattro icone. La prima a sinistra (ancora un callout) mostra i commenti e le diverse modifiche fatte nel tempo, mentre l'icona accanto consente nuovamente di visualizzare le ragioni duplicate. L'icona con la bandierina permette di contrassegnare la ragione come necessaria di revisione da parte dello studente, per una delle seguenti ragioni:
 - Unsupported: La ragione non è supportata (senza spiegazione, senza dati, senza esempi).
-- Non a claim: Quelle dello studente non è una vera ragione.
+- Not a claim: Quella dello studente non è una vera ragione.
 - Unclear: La ragione è poco chiara.
 - Vulgar/Abusive: La ragione è espressa in modo inaccettabile.
 - Duplicate claim: La ragione è uguale a una espressa già da qualche altro studente.
