@@ -22,9 +22,24 @@ La discussione si presenta come segue:
 
 I cerchi concentrici raffigurano in modo sintetico ed efficace lo sviluppo della discussione: nel primo cerchio sono inclusi i primi argomenti a favore (verdi) e contrari (rossi), nel secondo cerchio i primi contro-argomenti e così via.
 
-È possibile impostare una diversa visualizzazione alibitando la navigazione ramificata. Si ottiene la seguente schermata: 
+È possibile impostare una diversa visualizzazione abilitando la navigazione ramificata. Si ottiene la seguente schermata: 
 
 
 <figure>
   <img src="immagini/kjalo-02.png">
 </figure>
+
+Come si vede, gli studenti, individuati con il loro nome (Kourtney, Billie, Hayes ecc.) hanno inserito i loro argomenti a favore o contro. Il docente è intervenuto, nell'area in basso. Clicchiamo sul primo commento a sinistra, quello si Kourtney. Si apre questa finestra:
+
+<figure>
+  <img src="immagini/kjalo-03.png">
+</figure>
+
+Il docente può commentare l'argomento dello studente (in questo caso osservando che l'argomento è interessante, ma notando un errore di battitura) e dando ad esso un voto (in questo caso 4 su 5).
+
+Per dare un feedback e assegnare un voto occorre cliccare sull'icona del cappello accademico, in alto a destra. Si apre questa finestra:
+
+<figure>
+  <img src="immagini/kjalo-04.png">
+</figure>
+
