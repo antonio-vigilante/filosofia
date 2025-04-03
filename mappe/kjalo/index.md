@@ -29,7 +29,7 @@ I cerchi concentrici raffigurano in modo sintetico ed efficace lo sviluppo della
   <img src="immagini/kjalo-02.png">
 </figure>
 
-Come si vede, gli studenti, individuati con il loro nome (Kourtney, Billie, Hayes ecc.) hanno inserito le loro ragioni a favore o contro. Il docente è intervenuto, nell'area in basso. Clicchiamo sul primo commento a sinistra, quello si Kourtney. Si apre questa finestra:
+Come si vede gli studenti, individuati con il loro nome (Kourtney, Billie, Hayes ecc.) hanno inserito le loro ragioni a favore o contro. Il docente è intervenuto, nell'area in basso. Clicchiamo sul primo commento a sinistra, quello di Kourtney. Si apre questa finestra:
 
 <figure>
   <img src="immagini/kjalo-03.png">
@@ -51,7 +51,7 @@ Se clicchiamo ancora sull'icona con il callout, a destra dell'icona con il cappe
   <img src="immagini/kjalo-05.png">
 </figure>
 
-Abbiamo qui quattro icone. La prima a sinistra (ancora un callout) mostra i commenti e le diverse modifiche fatte nel tempo, mentre l'icona accanto consente nuovamente di visualizzare le ragioni duplicate. L'icona con la bandierina permette di contrassegnare la ragione come necessario di revisione da parte dello studente, per una delle seguenti ragioni:
+Abbiamo qui quattro icone. La prima a sinistra (ancora un callout) mostra i commenti e le diverse modifiche fatte nel tempo, mentre l'icona accanto consente nuovamente di visualizzare le ragioni duplicate. L'icona con la bandierina permette di contrassegnare la ragione come necessaria di revisione da parte dello studente, per una delle seguenti ragioni:
 - Unsupported: La ragione non è supportata (senza spiegazione, senza dati, senza esempi).
 - Non a claim: Quelle dello studente non è una vera ragione.
 - Unclear: La ragione è poco chiara.
