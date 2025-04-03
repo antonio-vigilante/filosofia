@@ -1,6 +1,6 @@
 ## La Maieutica Reciproca
 
-### Come funziona un seminario di MR a scuola
+### Come funziona un seminario di MR 
 
 La dinamica di un seminario di MR è apparentemente semplice.
 Bisogna, in primo luogo, disporsi circolarmente. Se l'aula lo consente - cosa non scontata nella scuola italiana - è possibile disporre le sedie in cerchio; se l'aula è piccola può essere più semplice sedersi sui banchi, mantenendo comunque una disposizione circolare. È possibile altrimenti ricorrere a uno spazio esterno all'aula, come l'aula magna. Se il clima lo consente, è possibile tenere seminari all'aperto, semplicemente sedendosi a terra.
