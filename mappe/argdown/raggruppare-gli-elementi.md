@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../assets/style.css">
+<link rel="stylesheet" href="antonio-vigilante.github.io/filosofia/assets/style.css">
 
 <div class="button orange">
 Mappe argomentative
