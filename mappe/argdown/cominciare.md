@@ -18,8 +18,6 @@ Per iniziare a usare Argdown non serve avere competenze informatiche avanzate. I
 
 Per un uso avanzato si raccomanda tuttavia di scaricare e installare Visual Studio Code, un programma gratuito che, con il plugin di Argdown, offre un ambiente più completo per scrivere e analizzare argomentazioni.  
 
-Vedremo in seguito come installare Visual Studio Code e usare il plugin di Argdown. Per ora possiamo esercitarci con la sandbox.
 
-<p></p>
 
 [Indice](index.md) | [<<](introduzione.md) | [>>](dichiarazioni.md)
