@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="antonio-vigilante.github.io/filosofia/assets/style.css">
+
 ## Come usare Argdown in locale
 
 Per usare Argdown sul nostro computer dobbiamo creare un file con formato .argdown, in cui scrivere il codice della mappa. Creaiamo una nuova cartella (che possiamo nominare _Mappa_); cliccando con il tasto destro in un punto qualsiasi della cartella selezioniamo Nuoso -> Documento di testo. Verrà creato il file `Nuovo documento di testo.txt`. Possiamo rinominarlo con il titolo della mappa che intendiamo creare.
