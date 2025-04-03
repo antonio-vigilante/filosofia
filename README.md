@@ -2,7 +2,7 @@
 
 Questo repository è legato all'insegnamento di _Esercitazioni di didattica della filosofia_ presso l'Università di Siena.
 
-## Pratiche dialogiche
+### Pratiche dialogiche
 
 [La Maieutica Reciproca](maieutica/index.md)  
 [Il Debate](debate/index.md)  
