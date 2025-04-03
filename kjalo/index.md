@@ -43,3 +43,12 @@ Per dare un feedback e assegnare un voto occorre cliccare sull'icona del cappell
   <img src="immagini/kjalo-04.png">
 </figure>
 
+Cliccando sull'icona con la matita, accanto a quella con il cappello accademico, abbiamo la possibilità di editare il _claim_, ossia l'argomento dello studente. La piattaforma mostra anche i possibili argomenti duplicati (_duplicate claims_). Questa lista compare anche in fase di scrittura dell'argomento, e serve ad avvisare lo studente che quello che sta scrivendo è già stato detto da altri.
+
+Se clicchiamo ancora sull'icona con il callout, a destra dell'icona con il cappello accademico, si apre questa finestra:
+
+<figure>
+  <img src="immagini/kjalo-05.png">
+</figure>
+
+Abbiamo qui 
