@@ -1,3 +1,5 @@
+# La Maieutica Reciproca
+
 ## Cos'è la MR
 
 A Trappeto Dolci si rende presto conto che il cambiamento sociale richiede la creazione di nuovi rapporti. In _Esperienze e riflessioni_ così ricorda l'avvio della sua azione politico-educativa:
