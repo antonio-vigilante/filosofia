@@ -20,10 +20,10 @@ Gli esercizi filosofici sono un altro strumento fondamentale per passare dallo _
 Le mappe argomentative sono strumenti grafici che rappresentano la struttura logica di un'argomentazione, evidenziando le relazioni tra tesi, premesse e obiezioni. Il loro impiego nella didattica della filosofia aiuta a sviluppare il pensiero critico, migliorare la comprensione dei testi e organizzare le idee per la scrittura e il dibattito. Visualizzando il processo del ragionamento, rendono esplicita la coerenza logica e facilitano l'analisi delle fallacie.
 In questa sezione offro una guida essenziale ad alcuni strumenti digitali, in ordine crescente di difficoltà e complessità.
 
-[Le mappe argomentative](introduzione/mappe.md)  
-[Guida a MindMup Argument Visualization](https://antonio-vigilante.github.io/filosofia/mindmup/index.html)  
-[Guida a Kjalo-Edu](https://antonio-vigilante.github.io/filosofia/kjalo/index.html)  
-[Guida a Argdown](https://antonio-vigilante.github.io/filosofia/argdown/index.html)
+[Le mappe argomentative](mappe/mappe.md)  
+[Guida a MindMup Argument Visualization](https://antonio-vigilante.github.io/filosofia/mappe/mindmup/index.html)  
+[Guida a Kjalo-Edu](https://antonio-vigilante.github.io/filosofia/mappe/kjalo/index.html)  
+[Guida a Argdown](https://antonio-vigilante.github.io/filosofia/mappe/argdown/index.html)
 
 
 
