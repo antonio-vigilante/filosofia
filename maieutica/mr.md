@@ -1,6 +1,6 @@
-# La Maieutica Reciproca
+## La Maieutica Reciproca
 
-## Cos'è la MR
+### Cos'è la MR
 
 A Trappeto Dolci si rende presto conto che il cambiamento sociale richiede la creazione di nuovi rapporti. In _Esperienze e riflessioni_ così ricorda l'avvio della sua azione politico-educativa:
 
@@ -9,6 +9,6 @@ A Trappeto Dolci si rende presto conto che il cambiamento sociale richiede la cr
 
 Il metodo nasce spontaneamente da questo ricerca di un allargamento dei rapporti. Dolci tiene riunioni nelle case più povere. Ci si siede in cerchio per discutere della situazione. Come si può cambiare? Non c'è un esperto che abbia la risposta; va cercata insieme. Ed è fondamentale che tutti abbiano lo stesso diritto di parola, anche se nessuno viene forzato a esprimersi. Il setting circolare facilita questo scambio. Dolci pone le domande e favorisce lo scambio comunicativo; la risposta o le risposte nasceranno dal confronto comune. Per questo la maieutica di Dolci è _reciproca_. Non c'è un maieuta che aiuta a venir fuori una verità latente. Ognuno è, piuttosto, maieuta dell'altro; in un certo senso il gruppo è più della somma delle parti.
 
-
+I temi non sono solo quelli legati all'urgenza della situazione. Il cambiamento sociale ed economico non è possibile senza un più profondo cambiamento culturale; per questo Dolci propone tematiche esistenziali o senz'altro filosofiche. Tra i temi dei primi seminari troviamo: Come deve essere un uomo? Cosa è vivere? Deve essere battezzato, un bambino? Fino a che punto il progresso è veramente progresso? 
 
 [^1]: D. Dolci, _Esperienze e riflessioni_, Laterza, Bari 1974, p. 202.
