@@ -24,6 +24,10 @@ Seminari di MR tra genitori e studenti consentono di creare quella alleanza educ
 
 e. _Seminari di ricerca_
 
-Seminari legati alle discipline e agli argomenti di studio. Si può tenere un seminario per introdurre un argomento, affrontando una questione generale legata all'argomento particolare che verrà affrontato attraverso lo studio di un autore, di un movimento culturale o di un periodo storico, ma è possibile anche soffermarsi a riflettere su ciò che è stato studiato, affinché le nuove conoscenze acquisite diventino sostanziali, passando il vaglio della riflessione critica comune. Cosa pensiamo della poesia di Dante? Riusciamo davvero a coglierne la bellezza? 
+Seminari legati alle discipline e agli argomenti di studio. Si può tenere un seminario per introdurre un argomento, affrontando una questione generale legata all'argomento particolare che verrà affrontato attraverso lo studio di un autore, di un movimento culturale o di un periodo storico, ma è possibile anche soffermarsi a riflettere su ciò che è stato studiato, affinché le nuove conoscenze acquisite diventino sostanziali, passando il vaglio della riflessione critica comune. Cosa pensiamo della poesia di Dante? Riusciamo davvero a coglierne la bellezza? Consideriamo attuali i valori della Rivoluzione francese? Particolarmente utili, per sviluppare le competenze linguistiche, sono i seminari in lingua straniera.
+
+f. _Seminari di analisi sociale_
+
+Sono i seminari spesso più apprezzati dagli studenti. Una lamentela, pienamente fondata, degli studenti riguarda la distanza della scuola dalla società: mentre tutt'intorno accadono cose che possono inquietare, sconcertare, spaventare gli studenti, la scuola spesso procede nello _svolgimento del programma_, indifferente a tutto ciò che non entra nel quadro di una disciplina. I seminari di analisi sociale superano questo limite, aprendo nella classe uno spazio di discussione e confronto. I temi di discussione possono guardare avvenimenti nazionali (ad esempio i femminicidi), internazionali (ad esempio la guerra) o legati alla propria comunità. 
 
 
