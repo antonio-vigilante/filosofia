@@ -25,7 +25,7 @@ c. _Seminari disciplinari_
 
 Le questioni disciplinari a scuola sono usualmente affrontate con le sanzioni, comminate dal Consiglio di classe nei casi più gravi. È un procedimento che esclude del tutto la comunità rappresentata dalla classe. Con la MR invece le questioni disciplinari vengono discusse da tutta la classe, anche per giungere a comprendere il senso e il valore delle regole indispensabili per il funzionamento del lavoro in classe. Questi seminari sono importanti in particolare quando i problemi disciplinari non riguardano pochi studenti, ma tutta la classe o gran parte di essa. In questo caso mettersi in cerchio a ragionare sul perché di questi comportamenti è infinitamente più efficace sia della minaccia della punizione che di un richiamo moralistico - inefficace perché privo di una analisi delle causa - a un comportamento corretto.
 
-d. _ Seminari tra genitori e docenti_
+d. _Seminari tra genitori e docenti_
 
 La difficile comunicazione tra docenti e famiglie è uno dei temi ricorrenti nel dibattito pubblico - spesso a dire il vero fondato su luoghi comuni - sulla scuola. I docenti accusano i genitori di essere difensori a oltranza dei figli; i genitori accusano spesso i docenti di scarsa sensibilità educativa. Alla base c'è la mancanza di un confronto sui temi più rilevanti: cosa vuol dire educare? quali fini deve perseguire la scuola? quale società vogliamo costruire _insieme_ attraverso la scuola?
 
