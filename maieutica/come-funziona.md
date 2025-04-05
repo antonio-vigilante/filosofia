@@ -1,4 +1,11 @@
-## La Maieutica Reciproca
+<link rel="stylesheet" href="https://antonio-vigilante.github.io/filosofia/assets/style.css">
+
+<div class="button green">
+Pratiche dialogiche
+</div>
+
+
+## La Maieutica Reciproca 
 
 ### Come funziona un seminario di MR 
 
