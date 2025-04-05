@@ -11,7 +11,7 @@ Il dialogo, il confronto critico, lo scambio argomentato costituiscono l'essenza
 [La Maieutica Reciproca](maieutica/index.md)  
 [Il Debate](debate/index.md)  
 
-<div class="button green">
+<div class="button blue">
 Esercizi filosofici
 </div>
 
