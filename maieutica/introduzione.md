@@ -4,8 +4,8 @@
 Pratiche dialogiche
 </div>
 
-
 ## La Maieutica Reciproca
+[Indice](index)
 
 ### Introduzione
 
