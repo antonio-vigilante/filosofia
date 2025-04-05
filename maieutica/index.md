@@ -13,3 +13,4 @@ Pratiche dialogiche
 [Trasmettere e comunicare](trasmettere-e-comunicare.md)  
 [La MR a scuola](mr-scuola.md)  
 [MR e didattica della filosofia](mr-filosofia.md)  
+[Risorse](risorse.md)  
