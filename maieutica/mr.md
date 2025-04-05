@@ -7,6 +7,8 @@ Pratiche dialogiche
 
 ## La Maieutica Reciproca
 
+[Indice](index)
+
 ### Cos'è la MR
 
 A Trappeto Dolci si rende presto conto che il cambiamento sociale richiede la creazione di nuovi rapporti. In _Esperienze e riflessioni_ così ricorda l'avvio della sua azione politico-educativa:
@@ -47,4 +49,4 @@ I seminari di MR costringono a riconsiderare i propri punti di vista e a vedere 
 [^2]: Ivi, p. 88.
 
 
-[Indice](index)
+ 
