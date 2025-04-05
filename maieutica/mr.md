@@ -45,3 +45,6 @@ I seminari di MR costringono a riconsiderare i propri punti di vista e a vedere 
 
 [^1]: D. Dolci, _Esperienze e riflessioni_, Laterza, Bari 1974, p. 202.
 [^2]: Ivi, p. 88.
+
+
+[Indice](index)
