@@ -6,8 +6,8 @@ Pratiche dialogiche
 
 
 ## La Maieutica Reciproca
-
-## La MR a scuola
+[Indice](index)
+### La MR a scuola
 
 A partire dalla seconda metà degli anni Sessanta Dolci ha concentrato la sua riflessione e la sua pratica sulle questioni educative in senso stretto. Forte dell'analisi che abbiamo appena considerato, riteneva che la scuola fosse viziata da un problema di fondo: il prevalere del _trasmettere_ sul _comunicare_. E poiché, come abbiamo visto, il _trasmettere_ è legato al _dominio_, la scuola gli appariva come una istituzione al servizio di dinamiche sociali opposte ai quei fini democratici che essa dovrebbe perseguire secondo la Costituzione. La leva per trasformare la scuola è tutta qui: passare dal trasmettere al comunicare, ossia dalla lezione a forme di ricerca comune, di discussione, di confronto. La MR è naturalmente centrale in questa rivoluzione comunicativa dell'istituzione scolastica.
 
@@ -39,4 +39,4 @@ f. _Seminari di analisi sociale_
 
 Sono i seminari spesso più apprezzati dagli studenti. Una lamentela, pienamente fondata, degli studenti riguarda la distanza della scuola dalla società: mentre tutt'intorno accadono cose che possono inquietare, sconcertare, spaventare gli studenti, la scuola spesso procede nello _svolgimento del programma_, indifferente a tutto ciò che non entra nel quadro di una disciplina. I seminari di analisi sociale superano questo limite, aprendo nella classe uno spazio di discussione e confronto. I temi di discussione possono guardare avvenimenti nazionali (ad esempio i femminicidi), internazionali (ad esempio la guerra) o legati alla propria comunità. 
 
-[Indice](index)
+ 
