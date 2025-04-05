@@ -7,6 +7,8 @@ Pratiche dialogiche
 
 ## La Maieutica Reciproca
 
+[Indice](index)
+
 ### Trasmettere e comunicare
 
 La riflessione sulla sua esperienza nella Sicilia nord-occidentale ha portato Dolci a ridefinire il concetto di _potere_. La situazione dei poveri di Trappeto era di assoluta _impotenza_; il lavoro con loro consisteva dunque, in primo luogo, nell'_empowerment_, nel guidarli a scoprire il proprio _potere_ personale e collettivo. Il potere dunque non è negativo come vuole la percezione comune. Esso è _possibilità_, e senza possibilità non c'è vita. Letteralmente: mangiare è già una forma di potere dalla quale alcuni possono essere esclusi.
@@ -21,7 +23,7 @@ Scrive Dolci in _Dal trasmettere al comunicare_:
 
 Per Dolci la scuola è affetta appunto da questa patologia comunicativa. La natura asimmetrica della relazione tra docente e studente fa sì che la comunicazione autentica diventi improbabile in un'aula scolastica, che siano impacciati l'ascolto e lo scambio. La scuola, in sostanza, è funzionale al _dominio_, esattamente come i mass-media, che per Dolci vanno considerati non _mezzi di comunicazione di massa_, ma messi di _trasmissione di massa_. Sia perché non consentono alcuno scambio, sia perché _creano la massa_, mentre il comunicare è sempre comunitario.
 
-[Indice](index)
+
 
 
 [^1]: D. Dolci, _Dal trasmettere al comunicare_, Sonda, Casale Monferrato 1988, p. 93.
