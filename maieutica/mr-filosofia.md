@@ -6,7 +6,7 @@ Pratiche dialogiche
 
 
 ## La Maieutica Reciproca
-
+[Indice](index)
 ### MR e didattica della filosofia
 
 Come accennato, è possibile introdurre i seminari di MR in tutte le discipline, compresa la matematica[^1]. La filosofia è tuttavia la disciplina nella quale un uso ampio della MR può dare i risultati migliori.
