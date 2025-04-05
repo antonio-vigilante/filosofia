@@ -18,3 +18,10 @@ A. Vigilante, _Ecologia del potere. Studio su Danilo Dolci_, Edizioni del Rosone
 #### Podcast
 
 RAI, [_Rivoluzione Dolci_](https://www.raiplaysound.it/programmi/rivoluzionedolci), di Andrea Borgnino, Peter Freeman, Vanessa Roghi, Marco Stefanelli.Editor: Luca Franco e Paola Manduca.
+
+## Siti Internet
+
+[Centro per lo Sviluppo Creativo Danilo Dolci](https://danilodolci.org/)  
+[INDIRE, Spazio Danilo Dolci](https://www.indire.it/2025/03/25/spazio-dolci-lambiente-online-per-leducazione-alla-nonviolenza/)
+
+
