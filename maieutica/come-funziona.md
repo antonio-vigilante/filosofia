@@ -25,3 +25,5 @@ L'aspetto più delicato di un seminario a scuola riguarda il ruolo del docente. 
 La partecipazione ai seminari è libera, nessuno studente è costretto a partecipare e, se partecipa, a intervenire. Gli interventi degli studenti non vengono valutati in alcun modo.
 
 È auspicabile che del seminario si faccia un verbale, a cura di uno studente, che verrà condiviso, a stampa o in formato digitale, con la classe, per tenere memoria del percorso di ricerca della classe.
+
+[Indice](index)
