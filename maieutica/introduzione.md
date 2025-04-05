@@ -14,3 +14,5 @@ La Maieutica Reciproca (MR) nasce negli anni Cinquanta grazie all'azione del soc
 Trasferitosi a Partinico, si impegna in favore dei disoccupati, organizzando nel 1956 uno _sciopero alla rovescia_ per il quale verrà arrestato; il processo, nel quale testimoniano in suo favore alcuni dei maggiori intellettuali italiani (tra gli altri Carlo Levi e Elio Vittorini, mentre a difenderlo è Piero Calamandrei) lo rende noto a livello mondiale, consolidando intorno alla sua figura una rete di sostegno internazionale che sarà fondamentale per le attività successive. 
 
 Tra le sue attività vanno segnalate la costruzione, grazie a una pressione nonviolenta, della diga sul fiume Jato e la prima denuncia dei rapporti tra mafia e politica. A partire del '68 Dolci si è concentrato sulle questioni educativa, sia attraverso la creazione del Centro Educativo di Mirto (Partinico), fondato sui principi dell'educazione maieutica e nonviolenta, sia attraverso una capillare azione di formazione dei docenti della scuola pubblica sulla metodologia della MR.
+
+[Indice](index)
