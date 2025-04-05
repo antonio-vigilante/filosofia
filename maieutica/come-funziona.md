@@ -27,4 +27,4 @@ La partecipazione ai seminari è libera, nessuno studente è costretto a parteci
 
 È auspicabile che del seminario si faccia un verbale, a cura di uno studente, che verrà condiviso, a stampa o in formato digitale, con la classe, per tenere memoria del percorso di ricerca della classe.
 
-[Indice](index)
+ 
