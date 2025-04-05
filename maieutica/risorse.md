@@ -7,6 +7,8 @@ Pratiche dialogiche
 
 ## La Maieutica Reciproca 
 
+[Indice](index)
+
 ### Risorse
 
 #### Libri
@@ -25,4 +27,4 @@ RAI, [_Rivoluzione Dolci_](https://www.raiplaysound.it/programmi/rivoluzionedolc
 [INDIRE, Spazio Danilo Dolci](https://www.indire.it/2025/03/25/spazio-dolci-lambiente-online-per-leducazione-alla-nonviolenza/)
 
 
-[Indice](index)
+ 
