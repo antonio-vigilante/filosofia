@@ -7,7 +7,7 @@ Pratiche dialogiche
 
 ## La Maieutica Reciproca
 
-## La Maieutica Reciproca a scuola
+## La MR a scuola
 
 A partire dalla seconda metà degli anni Sessanta Dolci ha concentrato la sua riflessione e la sua pratica sulle questioni educative in senso stretto. Forte dell'analisi che abbiamo appena considerato, riteneva che la scuola fosse viziata da un problema di fondo: il prevalere del _trasmettere_ sul _comunicare_. E poiché, come abbiamo visto, il _trasmettere_ è legato al _dominio_, la scuola gli appariva come una istituzione al servizio di dinamiche sociali opposte ai quei fini democratici che essa dovrebbe perseguire secondo la Costituzione. La leva per trasformare la scuola è tutta qui: passare dal trasmettere al comunicare, ossia dalla lezione a forme di ricerca comune, di discussione, di confronto. La MR è naturalmente centrale in questa rivoluzione comunicativa dell'istituzione scolastica.
 
