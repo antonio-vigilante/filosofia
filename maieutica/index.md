@@ -14,3 +14,8 @@ Pratiche dialogiche
 [La MR a scuola](mr-scuola.md)  
 [MR e didattica della filosofia](mr-filosofia.md)  
 [Risorse](risorse.md)  
+
+---
+Antonio Vigilante
+antoniovigilante@autistici.org
+Licenza CC-BY-NC
