@@ -4,8 +4,9 @@
 Pratiche dialogiche
 </div>
 
-
 ## La Maieutica Reciproca 
+
+[Indice](index)
 
 ### Come funziona un seminario di MR 
 
