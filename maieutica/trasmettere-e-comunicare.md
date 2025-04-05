@@ -21,7 +21,7 @@ Scrive Dolci in _Dal trasmettere al comunicare_:
 
 Per Dolci la scuola è affetta appunto da questa patologia comunicativa. La natura asimmetrica della relazione tra docente e studente fa sì che la comunicazione autentica diventi improbabile in un'aula scolastica, che siano impacciati l'ascolto e lo scambio. La scuola, in sostanza, è funzionale al _dominio_, esattamente come i mass-media, che per Dolci vanno considerati non _mezzi di comunicazione di massa_, ma messi di _trasmissione di massa_. Sia perché non consentono alcuno scambio, sia perché _creano la massa_, mentre il comunicare è sempre comunitario.
 
-
+[Indice](index)
 
 
 [^1]: D. Dolci, _Dal trasmettere al comunicare_, Sonda, Casale Monferrato 1988, p. 93.
