@@ -15,4 +15,4 @@ Trasferitosi a Partinico, si impegna in favore dei disoccupati, organizzando nel
 
 Tra le sue attività vanno segnalate la costruzione, grazie a una pressione nonviolenta, della diga sul fiume Jato e la prima denuncia dei rapporti tra mafia e politica. A partire del '68 Dolci si è concentrato sulle questioni educativa, sia attraverso la creazione del Centro Educativo di Mirto (Partinico), fondato sui principi dell'educazione maieutica e nonviolenta, sia attraverso una capillare azione di formazione dei docenti della scuola pubblica sulla metodologia della MR.
 
-[Indice](index)
+ 
