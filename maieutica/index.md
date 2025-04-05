@@ -16,6 +16,6 @@ Pratiche dialogiche
 [Risorse](risorse.md)  
 
 ---
-Antonio Vigilante
-antoniovigilante@autistici.org
+Antonio Vigilante  
+antoniovigilante@autistici.org  
 Licenza CC-BY-NC
