@@ -33,4 +33,3 @@ Nei seminari di MR nell'ambito della filosofia occorre fare particolare attenzio
 
 [^1]: Uno dei pochi libri sulla MR a scuola è di un docente di matematica: F. Cappello, _Seminare domande. La sperimentazione della maieutica di Danilo Dolci nella scuola_, EMI, Bollogna 2011.
 
-[Indice](index)
