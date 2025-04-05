@@ -39,4 +39,4 @@ f. _Seminari di analisi sociale_
 
 Sono i seminari spesso più apprezzati dagli studenti. Una lamentela, pienamente fondata, degli studenti riguarda la distanza della scuola dalla società: mentre tutt'intorno accadono cose che possono inquietare, sconcertare, spaventare gli studenti, la scuola spesso procede nello _svolgimento del programma_, indifferente a tutto ciò che non entra nel quadro di una disciplina. I seminari di analisi sociale superano questo limite, aprendo nella classe uno spazio di discussione e confronto. I temi di discussione possono guardare avvenimenti nazionali (ad esempio i femminicidi), internazionali (ad esempio la guerra) o legati alla propria comunità. 
 
-
+[Indice](index)
