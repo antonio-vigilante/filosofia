@@ -1,12 +1,12 @@
 <link rel="stylesheet" href="https://antonio-vigilante.github.io/filosofia/assets/style.css">
 
-<div class="button green">
-Pratiche dialogiche
-</div>
+ 
+📁 [Pratiche dialogiche](https://antonio-vigilante.github.io/filosofia/pratiche-dialogiche.html)
+ 
 
 ## La Maieutica Reciproca 
 
-[Indice](index)
+🔼 [Indice](index)
 
 ### Come funziona un seminario di MR 
 
