@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://antonio-vigilante.github.io/filosofia/assets/style.css">
 
-
+📁 [Pratiche dialogiche](https://antonio-vigilante.github.io/filosofia/pratiche-dialogiche.html)
 
 ## La Maieutica Reciproca
 🔼 [Indice](index)
