@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://antonio-vigilante.github.io/filosofia/assets/style.css">
 
-📁 [Mappe argomentative](https://antonio-vigilante.github.io/filosofia/mappe/mappe.html)
+📁 [Mappe argomentative](https://antonio-vigilante.github.io/filosofia/mappe/mappe-argomentative.html)
 
 ## MindMup
 
