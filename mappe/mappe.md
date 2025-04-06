@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="https://antonio-vigilante.github.io/filosofia/assets/style.css">
 
-📁 [Pratiche dialogiche](https://antonio-vigilante.github.io/filosofia/mappe/mappe.html)
+
+📁 [Mappe argomentative](https://antonio-vigilante.github.io/filosofia/mappe/mappe.html)
 
 ## Le mappe argomentative
 
