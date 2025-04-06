@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./assets/style.css">
+
 ## Esercizi filosofici
 
 Gli esercizi filosofici sono un altro strumento fondamentale per passare dallo studio della filosofia alla pratica filosofica.
