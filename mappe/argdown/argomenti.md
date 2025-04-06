@@ -1,8 +1,7 @@
 <link rel="stylesheet" href="https://antonio-vigilante.github.io/filosofia/assets/style.css">
 
-<div class="button orange">
-Mappe argomentative
-</div>
+
+📁 [Mappe argomentative](https://antonio-vigilante.github.io/filosofia/mappe/mappe.html)
 
 ## Guida a Argdown
 
