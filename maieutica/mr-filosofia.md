@@ -1,12 +1,9 @@
 <link rel="stylesheet" href="https://antonio-vigilante.github.io/filosofia/assets/style.css">
 
-<div class="button green">
-Pratiche dialogiche
-</div>
 
 
 ## La Maieutica Reciproca
-[Indice](index)
+🔼 [Indice](index)
 ### MR e didattica della filosofia
 
 Come accennato, è possibile introdurre i seminari di MR in tutte le discipline, compresa la matematica[^1]. La filosofia è tuttavia la disciplina nella quale un uso ampio della MR può dare i risultati migliori.
