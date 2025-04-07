@@ -5,7 +5,7 @@ Questo repository è legato all'insegnamento di _Esercitazioni di didattica dell
 📁 [Pratiche dialogiche](pratiche-dialogiche.md)    
 📁 [Esercizi filosofici](esercizi-filosofici.md)  
 📁 [Mappe argomentative](mappe-argomentative.md)    
-📁 [Giochi](giochi.md)  
+📁 [Storytelling](storytelling.md)  
 
 
 
