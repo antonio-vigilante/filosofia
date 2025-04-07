@@ -1,10 +1,10 @@
-## Storytelling
+📁[Storytelling](https://antonio-vigilante.github.io/filosofia/storytelling.html)
 
-### Ink
+## Ink
 
 Guardiamo subito un esempio di attività con Ink:
 
-🗒 [L'esistenza di Dio](https://antonio-vigilante.github.io/filosofia/storytelling/ink/dio/index.html)
+🔗 [L'esistenza di Dio](https://antonio-vigilante.github.io/filosofia/storytelling/ink/dio/index.html)
 
 Questo piccolo percorso permette allo studente di esplorare diverse posizioni riguardo all'esistenza di Dio: fede in un Dio personale, apertura a un principio cosmico, agnosticismo e ateismo. Selezionando di volta in volta la risposta nella quale si riconosce, giunge a chiarire la sua posizione; giunto alla fine ha la possibilità di ricominciare dall'inizio.
 
