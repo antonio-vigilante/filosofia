@@ -233,3 +233,4 @@ Bene. Buon cammino!
  -> END
 ```
  
+Analizziamo questo codice. Come si vede, esso è diviso in blocchi, meglio definiti come _nodi_. Ogni nodo è definito con `== NomeNodo ==`. Invece il codice `->NomeNodo` rimanda al nodo. Nel caso del nostro esempio, il codice di apre con `->Inizio`, che ci rimanda subito al nodo con questo nome. In questo nodo troviamo un testo narrativo iniziale, seguito da 
