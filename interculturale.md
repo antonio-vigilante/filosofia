@@ -6,6 +6,6 @@ _Insegnare la filosofia o le filosofie?_, in “Educazione Aperta”, n. 9 / 202
 _Finestre interculturali. Aprire la didattica della filosofia al pensiero cinese_, in “Educazione Aperta”, 12/2022 [[scarica]](vigilante-finestre.pdf)
 
 ---
-Antonio Vigilante
-antoniovigilante@autistici.org
+Antonio Vigilante  
+antoniovigilante@autistici.org  
 Licenza CC-BY-NC
