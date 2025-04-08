@@ -6,3 +6,5 @@ Queste indicazioni sono sufficienti per creare percorsi semplici, come quello de
 
 Vediamo ancora un esempio. 
 
+🔗 [Un profilo morale secondo Kant](kant/index.html) 
+
