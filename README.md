@@ -3,6 +3,7 @@
 Questo repository è legato all'insegnamento di _Esercitazioni di didattica della filosofia_ presso l'Università di Siena.
 
 📁 [Pratiche dialogiche](pratiche-dialogiche.md)    
+📁 [Didattica interculturale](interculturale.md)   
 📁 [Esercizi filosofici](esercizi-filosofici.md)  
 📁 [Mappe argomentative](mappe-argomentative.md)    
 📁 [Storytelling](storytelling.md)  
