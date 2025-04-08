@@ -10,7 +10,8 @@ Vediamo ancora un esempio.
 
 Guardiamo il codice.
 
-```VAR usa_ragione = false
+```
+VAR usa_ragione = false
 VAR aiuta_altri = false
 VAR mente_per_convenienza = false
 
