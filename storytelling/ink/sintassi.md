@@ -230,7 +230,7 @@ Bene. Buon cammino!
 
 Come si vede, esso è diviso in blocchi, meglio definiti come _nodi_. Ogni nodo è definito con `== NomeNodo ==`. Invece il codice `->NomeNodo` rimanda al nodo. Nel caso del nostro esempio, il codice di apre con `->Inizio`, che ci rimanda subito al nodo con questo nome. In questo nodo troviamo un testo narrativo iniziale, seguito da da diverse opzioni. Ogni opzione è preceduta da un asterisco `*` e seguita, alla riga seguente, da un rimando alla sezione corrispondente. Questa è la struttura di base, molto semplice, di Ink.
 
-Consideriamo il nodo `==Fine`. In questo caso le opzioni non sono precedute da un asterisco, ma dal segno `+`. Il nodo rimanda all'Inizio nel caso in cui l'utente voglia ripetere il percorso da capo. Ma non sarebbe possibile farlo più di una volta, perché le opzioni contrassegnate con `*` una volta scelte non sono più disponibili; in questo caso resterebbe solo l'opzione Uscita. Il segno `+` invece indica un'opzione selezionabile più volte.
+Consideriamo il nodo `==Fine==`. In questo caso le opzioni non sono precedute da un asterisco, ma dal segno `+`. Il nodo rimanda all'Inizio nel caso in cui l'utente voglia ripetere il percorso da capo. Ma non sarebbe possibile farlo più di una volta, perché le opzioni contrassegnate con `*` una volta scelte non sono più disponibili; in questo caso resterebbe solo l'opzione Uscita. Il segno `+` invece indica un'opzione selezionabile più volte.
 
 
 
