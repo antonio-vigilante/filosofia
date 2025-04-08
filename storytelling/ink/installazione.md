@@ -10,3 +10,4 @@ _Inky_, l'editor per il linguaggio Ink, può essere scaricato gratis a 🔗[ques
   <img src="inky.png">
 </figure>
 
+Il funzionamento del software è estremamente semplice: il codice viene inserito nella finestra a sinistra e sviuppato in tempo reale in quella di destra.
