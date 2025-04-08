@@ -2,13 +2,16 @@
 
 ## Ink
 
+### Un esempio
+
 Guardiamo subito un esempio di attività con Ink.
 
 🔗 [L'esistenza di Dio](https://antonio-vigilante.github.io/filosofia/storytelling/ink/dio/index.html)
 
 Questo piccolo percorso permette allo studente di esplorare diverse posizioni riguardo all'esistenza di Dio: fede in un Dio personale, apertura a un principio cosmico, agnosticismo e ateismo. Selezionando di volta in volta la risposta nella quale si riconosce, giunge a chiarire la sua posizione; giunto alla fine ha la possibilità di ricominciare dall'inizio.
 
-Si tratta di un percorso molto semplice, che mostra però già le potenzialità di Ink, un linguaggio creato da [Inkle Studios](https://www.inklestudios.com/), una casa di sviluppo indipendente britannica, fondata nel 2011 da Jon Ingold e Joseph Humfrey, cui si devono videogiochi di successo come _80 Days_ e _Heaven's Vault_. Ink è un linguaggio di scripting open-source che permette di scrivere storie interattive con una sintassi semplice, leggibile e potente. _Inky_, l'editor per il linguaggio Ink, può essere scaricato gratis a 🔗[questo link](https://www.inklestudios.com/ink/), in versione Mac, Windows e Linux.
+Si tratta di un percorso molto semplice, che mostra però già le potenzialità di Ink, un linguaggio creato da [Inkle Studios](https://www.inklestudios.com/), una casa di sviluppo indipendente britannica, fondata nel 2011 da Jon Ingold e Joseph Humfrey, cui si devono videogiochi di successo come _80 Days_ e _Heaven's Vault_. Ink è un linguaggio di scripting open-source che permette di scrivere storie interattive con una sintassi semplice, leggibile e potente. _Inky_, l'editor per il linguaggio Ink, può essere scaricato gratis a 🔗[questo link](https://www.inklestudios.com/ink/), in versione Mac, Windows e Linux. L'installazione è estremamente semplice. Il programma viene scaricato in formato .zip. Sarà sufficiente scompattare il contenuto in una cartella, sul Desktop o dove si preferisce, e avviare quindi il programma cliccando sul file `inky.exe`.
+
 
 Esporiamo il codice dell'attività precedente per familiarizzarci con il linguaggio.
 
@@ -233,9 +236,16 @@ Bene. Buon cammino!
  -> END
 ```
  
+### La sintassi base di Ink
+
 Analizziamo questo codice. Come si vede, esso è diviso in blocchi, meglio definiti come _nodi_. Ogni nodo è definito con `== NomeNodo ==`. Invece il codice `->NomeNodo` rimanda al nodo. Nel caso del nostro esempio, il codice di apre con `->Inizio`, che ci rimanda subito al nodo con questo nome. In questo nodo troviamo un testo narrativo iniziale, seguito da da diverse opzioni. Ogni opzione è preceduta da un asterisco `*` e seguita, alla riga seguente, da un rimando alla sezione corrispondente. Questa è la struttura di base, molto semplice, di Ink.
 
 Consideriamo il nodo `==Fine`. In questo caso le opzioni non sono precedute da un asterisco, ma dal segno `+`. Il nodo rimanda all'Inizio nel caso in cui l'utente voglia ripetere il percorso da capo. Ma non sarebbe possibile farlo più di una volta, perché le opzioni contrassegnate con `*` una volta scelte non sono più disponibili; in questo caso resterebbe solo l'opzione Uscita. Il segno `+` invece indica un'opzione selezionabile più volte.
- 
+
+### Le variabili
+
+Queste indicazioni sono sufficienti per creare percorsi semplici, come quello dell'esempio. Per creare percorsi più complessi è necessario considerare le variabili.  Una variabile è un “contenitore” che memorizza un’informazione: un numero, un valore logico (vero/falso), una parola; in Ink le variabili permettono di ricordare cosa ha scelto l’utente o modificare il testo in base al suo percorso.
+
+Vediamo ancora un esempio. 
 
 
