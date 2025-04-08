@@ -75,7 +75,28 @@ Hai detto la verità, anche a tuo svantaggio: atto moralmente valido.
 -> END
 ```
 
+Abbiamo inserito all'inizio tre variabili:
+```
+VAR usa_ragione = false
+VAR aiuta_altri = false
+VAR mente_per_convenienza = false
+```
+Tutte e tre sono settate su `fale`. All’avvio della storia l’utente non ha ancora fatto alcuna scelta, quindi tutte le variabili che rappresentano azioni o atteggiamenti morali (es. usare la ragione, aiutare, mentire) devono partire da un valore neutro, che in questo caso è, appunto, `false`. 
+Durante il gioco, quando il giocatore fa una scelta significativa, una variabile può essere aggiornata: 
+```
+* [Aiutala, è giusto così] 
+    ~ aiuta_altri = true
+```
 
-All’avvio della storia, l’utente non ha ancora fatto alcuna scelta. Quindi tutte le variabili che rappresentano azioni o atteggiamenti morali (es. usare la ragione, aiutare, mentire) devono partire da un valore neutro, che in questo caso è false.
+Qui il simbolo `~` indica che stiamo modificando la variabile `aiuta_altri`, impostandola su `true` (vero), perché il giocatore ha aiutato la persona in difficoltà.
 
+Alla fine del gioco, le variabili sono controllate per fornire un giudizio morale personalizzato:
 
+```
+{usa_ragione:
+Kant ti osserva con stima. Hai cercato di seguire la ragione.
+- else:
+Hai agito mosso da inclinazione, non per dovere.
+}
+```
+Questa struttura significa: Se la variabile `usa_ragione` è vera, stampa la prima frase. Altrimenti (`else`), stampa la seconda.
