@@ -4,4 +4,4 @@ Il dialogo, il confronto critico, lo scambio argomentato costituiscono l’essen
 
 [La Maieutica Reciproca](https://antonio-vigilante.github.io/filosofia/maieutica/)  
 [Il Debate](https://antonio-vigilante.github.io/filosofia/debate/)  
-[Maieutica Reciproca o Debate](maieutica-debate.md)  
+[Maieutica Reciproca o Debate?](maieutica-debate.md)  
