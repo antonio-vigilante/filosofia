@@ -1,3 +1,5 @@
+📁 [Pratiche dialogiche](https://antonio-vigilante.github.io/filosofia/pratiche-dialogiche.html)
+
 ## Il Debate
 
 ### Introduzione
