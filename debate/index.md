@@ -1,4 +1,4 @@
 ## Il Debate
 
-[Introduzione](introduzione.md)
-[Come funzione](come-funziona.md)  
+[Introduzione](introduzione.md)  
+[Come funziona](come-funziona.md)  
