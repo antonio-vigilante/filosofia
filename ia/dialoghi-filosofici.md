@@ -13,7 +13,7 @@ Durante una lezione, l’insegnante può aprire un’interazione in tempo reale 
 
 Un’attività possibile consiste nel mettere due autori in dialogo tra loro: l’insegnante, o uno studente, modera la discussione tra due istanze di IA che impersonano ad esempio Spinoza e Pascal, oppure Epicuro e Marco Aurelio. Si può chiedere loro di discutere su un tema condiviso, come la felicità o la morte. I presenti intervengono per porre domande, segnalare incoerenze, proporre obiezioni. Questo teatro dialogico trasforma la lezione in un esercizio vivo di argomentazione.
 
-<div:"info-box">Per quanto abbiano raggiunto ormai un livello di notevole raffinatezza, le IA, anche quelle più evolute, sono soggette (a causa del loro procedere probabilistico), ad _allucinazioni_: possono dare risposte sbagliate o addirittura _inventare_. Per questo l'uso va sempre sorvegliato dall'insegnante. a notato che questa vulneriabilità dell'IA può essere sfruttata positivamente nel lavoro didattico: la preparazione dello studente emerge anche dalla sua capacità di cogliere gli errori dell'IA.</div>
+<div class="info-box">Per quanto abbiano raggiunto ormai un livello di notevole raffinatezza, le IA, anche quelle più evolute, sono soggette (a causa del loro procedere probabilistico), ad _allucinazioni_: possono dare risposte sbagliate o addirittura _inventare_. Per questo l'uso va sempre sorvegliato dall'insegnante. a notato che questa vulneriabilità dell'IA può essere sfruttata positivamente nel lavoro didattico: la preparazione dello studente emerge anche dalla sua capacità di cogliere gli errori dell'IA.</div>
  
 
 ### A casa 
