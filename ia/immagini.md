@@ -1,3 +1,10 @@
+<link rel="stylesheet" href="https://antonio-vigilante.github.io/filosofia/assets/style.css">
+
+
+📁 [Intel](https://antonio-vigilante.github.io/filosofia/mappe-argomentative.html)
+
+
+
 ## L'IA per la creazione di immagini
 
 Nel contesto dell’insegnamento della filosofia, l’intelligenza artificiale può essere utilizzata anche per la generazione di immagini a partire da descrizioni testuali. Questa possibilità può risultare utile in diverse fasi del lavoro didattico, in particolare quando si desidera rappresentare visivamente concetti o scenari teorici che, per loro natura, non si prestano a essere osservati direttamente.
