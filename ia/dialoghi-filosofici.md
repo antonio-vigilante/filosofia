@@ -13,7 +13,8 @@ Durante una lezione, l’insegnante può aprire un’interazione in tempo reale 
 
 Un’attività possibile consiste nel mettere due autori in dialogo tra loro: l’insegnante, o uno studente, modera la discussione tra due istanze di IA che impersonano ad esempio Spinoza e Pascal, oppure Epicuro e Marco Aurelio. Si può chiedere loro di discutere su un tema condiviso, come la felicità o la morte. I presenti intervengono per porre domande, segnalare incoerenze, proporre obiezioni. Questo teatro dialogico trasforma la lezione in un esercizio vivo di argomentazione.
 
-Per quanto abbiano raggiunto ormai un livello di notevole raffinatezza, le IA, anche quelle più evolute, sono soggette (a causa del loro procedere probabilistico), ad _allucinazioni_: possono dare risposte sbagliate o addirittura _inventare_. Per questo l'uso va sempre sorvegliato dall'insegnante. a notato che questa vulneriabilità dell'IA può essere sfruttata positivamente nel lavoro didattico: la preparazione dello studente emerge anche dalla sua capacità di cogliere gli errori dell'IA.
+<div="info-box">Per quanto abbiano raggiunto ormai un livello di notevole raffinatezza, le IA, anche quelle più evolute, sono soggette (a causa del loro procedere probabilistico), ad _allucinazioni_: possono dare risposte sbagliate o addirittura _inventare_. Per questo l'uso va sempre sorvegliato dall'insegnante. a notato che questa vulneriabilità dell'IA può essere sfruttata positivamente nel lavoro didattico: la preparazione dello studente emerge anche dalla sua capacità di cogliere gli errori dell'IA.</div>
+ 
 
 ### A casa 
 L’insegnante può proporre compiti a casa sotto forma di dialogo socratico personalizzato. Ad esempio, si può assegnare allo studente il compito di conversare con un'IA nei panni di un filosofo studiato, ponendo domande sulla sua dottrina o esponendo un disaccordo motivato. Lo studente deve poi trascrivere e commentare il dialogo, spiegando quali passaggi ha trovato più convincenti, quali più problematici, e come si posiziona rispetto a quanto emerso.
@@ -26,7 +27,8 @@ Un altro uso possibile è la preparazione autonoma a una lezione, a un’interro
 
 Anche la fase successiva allo studio può essere arricchita: ad esempio, dopo aver letto un testo di Schopenhauer, lo studente può avviare un dialogo con l’IA per testare la propria capacità di discuterne criticamente, senza ripetere meccanicamente ciò che ha appreso. In questo senso l'IA diventa un allenatore cognitivo, che offre feedback immediato e adatta il proprio linguaggio al livello dell’interlocutore.
 
-In contesto laboratoriale: scrivere dialoghi originali
-Infine, ChatGPT può essere usato come coautore di brevi dialoghi filosofici originali. Gli studenti possono proporre una situazione problematica – ad esempio una questione etica o un paradosso – e chiedere all’IA di mettere in scena due o più voci con posizioni diverse. Oppure possono scrivere in prima persona il proprio pensiero e sollecitare l’IA a reagire, come un interlocutore critico. Questo approccio favorisce la scrittura argomentativa, il pensiero divergente e la creatività filosofica, in un ambiente non giudicante e stimolante.
+### Per attività di laboratorio
+
+Nell'ambito di un'attività di laboratorio, gli studenti possono proporre una situazione problematica – ad esempio una questione etica o un paradosso – e chiedere all’IA di mettere in scena due o più voci con posizioni diverse. Oppure possono scrivere in prima persona il proprio pensiero e sollecitare l’IA a reagire, come un interlocutore critico.  
 
 💡 Un esempio di simulazione è 🔗 [[questo dialogo con Spinoza sull'etica del non umano]](https://www.attraversamenti.info/2025/04/dialogo-con-spinoza-sulletica-del-non-umano.html) 
