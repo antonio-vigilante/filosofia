@@ -7,7 +7,7 @@
 
 ## L'IA per la creazione di immagini
 
-Nel contesto dell’insegnamento della filosofia, l’intelligenza artificiale può essere utilizzata anche per la generazione di immagini a partire da descrizioni testuali. Questa possibilità può risultare utile in diverse fasi del lavoro didattico, in particolare quando si desidera rappresentare visivamente concetti o scenari teorici che, per loro natura, non si prestano a essere osservati direttamente.
+Nel contesto dell’insegnamento della filosofia, l’IA può essere utilizzata anche per la generazione di immagini a partire da descrizioni testuali. Questa possibilità può risultare utile in diverse fasi del lavoro didattico, in particolare quando si desidera rappresentare visivamente concetti o scenari teorici che, per loro natura, non si prestano a essere osservati direttamente.
 
 Ad esempio, è possibile chiedere all’IA di creare un’immagine che rappresenti l’allegoria della caverna di Platone, oppure di raffigurare un’ipotesi di “stato di natura” ispirata a Hobbes o a Rousseau. L’immagine prodotta, che non è una fotografia ma una costruzione artificiale basata su una descrizione verbale, può servire come punto di partenza per una discussione collettiva: si può riflettere su quanto essa restituisca fedelmente le idee presenti nel testo, su quali aspetti siano stati evidenziati o trascurati, e su come il passaggio dal discorso filosofico alla visualizzazione modifichi il modo di comprendere il concetto.
 
