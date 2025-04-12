@@ -2,5 +2,6 @@
 
 ## Intelligenza artificiale e didattica della filosofia
 
-[Simulazione di dialoghi filosofici](dialoghi-filosofici.md)
+[Simulazione di dialoghi filosofici](dialoghi-filosofici.md)  
+[Generazione di immagini](immagini.md)  
 
