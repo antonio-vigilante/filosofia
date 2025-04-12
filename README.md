@@ -7,7 +7,7 @@ Questo repository è legato all'insegnamento di _Esercitazioni di didattica dell
 📁 [Esercizi filosofici](esercizi-filosofici.md)  
 📁 [Mappe argomentative](mappe-argomentative.md)    
 📁 [Storytelling](storytelling.md)   
-📁 [Intelligenza artificiale e didattica della filosofia](ia.md)
+📁 [Intelligenza artificiale e didattica della filosofia](ia/index.md)
 
 
 
