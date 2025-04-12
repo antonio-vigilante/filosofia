@@ -12,4 +12,8 @@ Pur non essendo centrale nella didattica della filosofia, l’uso dell’IA per 
 
 <div class="info-box">Nella generazione di immagini con IA, di grande importanza è in _promtp_, ossia il testo che descrive l'immagine dal generare. Un promp elaborato e dettagliato darà un'immagine migliore. La valutazione del lavoro dello studente può tener conto proprio del prompt usato (ma è da tener conto che l'IA stessa può elaborare prompt complessi).</div>
 
-Ecco qualche esempio.
+La seguente immagine di esempio, riguardante il mito della caverna (la cosa più scontata da chiedere a una IA), ha richiesto sei tentativi, ed è lontana dall'essere perfetta.
+
+<figure>
+  <img src="caverna.png">
+</figure>
