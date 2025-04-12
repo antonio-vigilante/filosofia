@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://antonio-vigilante.github.io/filosofia/assets/style.css">
 
-📁 [Intelligenza artificiale e didattica della filosofia](https://antonio-vigilante.github.io/ia/index.d)
+📁 [Intelligenza artificiale e didattica della filosofia](https://antonio-vigilante.github.io/ia/index.md)
 
 ## Simulazione di dialoghi filosofici
 
