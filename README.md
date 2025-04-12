@@ -6,7 +6,7 @@ Questo repository è legato all'insegnamento di _Esercitazioni di didattica dell
 📁 [Didattica interculturale](interculturale.md)   
 📁 [Esercizi filosofici](esercizi-filosofici.md)  
 📁 [Mappe argomentative](mappe-argomentative.md)    
-📁 [Storytelling](storytelling.md) 
+📁 [Storytelling](storytelling.md)   
 📁 [Intelligenza artificiale e didattica della filosofia](ia.md)
 
 
