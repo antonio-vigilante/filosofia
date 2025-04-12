@@ -28,3 +28,5 @@ Anche la fase successiva allo studio può essere arricchita: ad esempio, dopo av
 
 In contesto laboratoriale: scrivere dialoghi originali
 Infine, ChatGPT può essere usato come coautore di brevi dialoghi filosofici originali. Gli studenti possono proporre una situazione problematica – ad esempio una questione etica o un paradosso – e chiedere all’IA di mettere in scena due o più voci con posizioni diverse. Oppure possono scrivere in prima persona il proprio pensiero e sollecitare l’IA a reagire, come un interlocutore critico. Questo approccio favorisce la scrittura argomentativa, il pensiero divergente e la creatività filosofica, in un ambiente non giudicante e stimolante.
+
+💡 Un esempio di simulazione è 🔗 [[questo dialogo con Spinoza sull'etica del non umano]](https://www.attraversamenti.info/2025/04/dialogo-con-spinoza-sulletica-del-non-umano.html) 
