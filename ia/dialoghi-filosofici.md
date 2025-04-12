@@ -4,7 +4,7 @@
 
 ## Simulazione di dialoghi filosofici
 
-Una delle possibilità più fertili offerte dall'Intelligenza Artificiale consiste nella simulazione di dialoghi _con_ pensatori o _tra_ del passato. È possibile chiedere all’IA di rispondere nel ruolo di un filosofo specifico – ad esempio Socrate, Kant o Nietzsche – oppure di sviluppare una discussione ipotetica tra due posizioni teoriche divergenti. In questo modo si crea un ambiente discorsivo che non si limita a riprodurre delle opinioni, ma costruisce una rete di relazioni argomentative, fondate sui presupposti propri di ciascun autore o corrente.
+Una delle possibilità più interessanti offerte dall'Intelligenza Artificiale nel campo della didattica della filosofia consiste nella simulazione di dialoghi _con_ e _tra_ pensatori del passato. È possibile chiedere all’IA di rispondere nel ruolo di un filosofo specifico – ad esempio Socrate, Kant o Nietzsche – oppure di sviluppare una discussione ipotetica tra due posizioni teoriche divergenti. In questo modo si crea un ambiente discorsivo che non si limita a riprodurre delle opinioni, ma costruisce una rete di relazioni argomentative, fondate sui presupposti propri di ciascun autore o corrente.
 
 L’interazione che ne deriva non è un semplice esercizio mnemonico o imitativo: lo studente è stimolato a riconoscere la coerenza interna di una posizione, a identificarne i fondamenti impliciti, a coglierne i limiti e le conseguenze. 
 
