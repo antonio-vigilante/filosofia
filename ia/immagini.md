@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://antonio-vigilante.github.io/filosofia/assets/style.css">
 
+📁 [Intelligenza artificiale e didattica della filosofia](https://antonio-vigilante.github.io/ia/index.d)
 
-📁 [Intel](https://antonio-vigilante.github.io/filosofia/mappe-argomentative.html)
 
 
 
