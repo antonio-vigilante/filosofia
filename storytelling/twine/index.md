@@ -6,8 +6,11 @@ Anche in questo caso partiamo da un esempio:
 
 🔗 [Salvare un bambino che sta annegando?](salvare-un-bambino.html)
 
-Qui abbiamo un percorso basato sull'articolo di Peter Singer <a href="https://newint.org/features/1997/04/05/peter-singer-drowning-child-new-internationalist">The Drowning Child and the Expanding Circle</a>. La struttura è simile a quella generata da Ink, anche se compare un menu che consente di salvare i progressi e di riavviare la storia. Del tuto diversa è però la piattaforma. La storia dell'esempio sulla piattaforma web si presenta come segue.
+Qui abbiamo un percorso basato sull'articolo di Peter Singer <a href="https://newint.org/features/1997/04/05/peter-singer-drowning-child-new-internationalist">The Drowning Child and the Expanding Circle</a>. La struttura è simile a quella generata da Ink, anche se compare un menu che consente di salvare i progressi e di riavviare la storia. Del tutto diversa è però la piattaforma. La storia dell'esempio sulla piattaforma web si presenta come segue.
 
 <figure>
   <img src="twine01.png">
 </figure>
+
+L'interfaccia si presenta più amichevole: non dobbiamo lavorare (solo) sul codice, ma possiamo visualizzare i legami tra i diversi nodi della nostra storia interattiva.
+Vediamo come procedere per creare una storia.
