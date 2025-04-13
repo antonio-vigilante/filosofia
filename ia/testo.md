@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="https://antonio-vigilante.github.io/filosofia/assets/style.css">
+
+📁 [Intelligenza artificiale e didattica della filosofia](https://antonio-vigilante.github.io/ia/)
+
 ## Analisi del testo
 
 La lettura dei testi dovrebbe essere al centro della didattica della filosofia non meno che di quella della letteratura. È leggendo il testo che lo studente entra a fondo nell'argomentazione e nello stile di un filosofo, ed è grazie alla lettura di testi filosofici che a sua volta impara a praticare la scrittura filosofica. Così non è, per una serie di ragioni: i testi appaiono per lo più _troppo difficili_, e l'esperienza si rivela frustrante per lo studente; e si tratta di una pratica che richiede un tempo che i docenti, preoccupati di terminare nei tempi fissati il piano di lavoro che essi stessi hanno stabilito, sentono di non avere. I testi, quando compaiono, sono per lo letti e illustrati dal docente, con una partecipazione minima degli studenti. Ed è rarissimo che si chieda agli studenti di muoversi autonomamente, da soli o in gruppo, nell'interpretazione dei testi.
@@ -23,13 +27,14 @@ Ecco la risposta alla richiesta di aiutarmi nella comprensione di quel passo:
 Le chiedo di chiarirmi questo passaggio: "Ora, indipendentemente dalla sensibilità, non possiamo essere partecipi di nessuna intuizione (Anschauung). Pertanto, l‘intelletto non è una facoltà intuitiva."
 
 >Ottima domanda! Questo passaggio è centrale nel pensiero di Kant, quindi vale la pena sviscerarlo bene. Proviamo a riformularlo passo per passo:
->Il testo dice:  >"Ora, indipendentemente dalla sensibilità, non possiamo essere partecipi di nessuna intuizione (Anschauung). Pertanto, l‘intelletto non è una facoltà intuitiva."  
+>Il testo dice: "Ora, indipendentemente dalla sensibilità, non possiamo essere partecipi di nessuna intuizione (Anschauung). Pertanto, l‘intelletto non è una facoltà intuitiva."  
 >Che cosa intende Kant?  
 >_1. L'intuizione (Anschauung)_  
->In Kant, intuizione significa conoscenza immediata dell’oggetto, come quella che abbiamo quando vediamo un albero o sentiamo un suono. È un rapporto diretto, senza mediazione di concetti.
+>In Kant, intuizione significa conoscenza immediata dell’oggetto, come quella che abbiamo quando vediamo un albero o sentiamo un suono. È un rapporto diretto, senza mediazione di concetti.  
 >_2. La sensibilità come fonte dell’intuizione_  
->Kant sostiene che tutta la nostra intuizione passa attraverso la sensibilità, cioè attraverso i sensi (vista, udito, ecc.). Noi riceviamo le cose — passivamente — come impressioni sensibili. >Questa è la forma fondamentale in cui ci rapportiamo al mondo: l’intuizione sensibile.  
->Senza la sensibilità, non possiamo “avere” alcuna intuizione. Questo significa che non possiamo percepire direttamente oggetti, né conoscerli immediatamente, senza i sensi.  
+>Kant sostiene che tutta la nostra intuizione passa attraverso la sensibilità, cioè attraverso i sensi (vista, udito, ecc.). Noi riceviamo le cose — passivamente — come impressioni sensibili.  
+ >Questa è la forma fondamentale in cui ci rapportiamo al mondo: l’intuizione sensibile.    
+>Senza la sensibilità, non possiamo “avere” alcuna intuizione. Questo significa che non possiamo percepire direttamente oggetti, né conoscerli immediatamente, senza i sensi.    
 >_3. L’intelletto non intuisce_   
 >A differenza della sensibilità, l’intelletto lavora con concetti, che sono rappresentazioni generali, come “albero”, “giustizia”, “casa”. Ma non vede, non sente, non tocca: non intuisce.
 L’intelletto non ci dà alcuna conoscenza immediata degli oggetti. Esso pensa gli oggetti, non li intuisce.  
