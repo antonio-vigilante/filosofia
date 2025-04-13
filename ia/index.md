@@ -4,4 +4,5 @@
 
 [Simulazione di dialoghi filosofici](dialoghi-filosofici.md)  
 [Generazione di immagini](immagini.md)  
-
+[Analisi del testo](testo.md)  
+[Individuare le fallacie logiche](fallacie.md)
