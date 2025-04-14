@@ -17,9 +17,9 @@ Anche nei compiti a casa, la generazione di immagini può costituire una modalit
 
 Pur non essendo centrale nella didattica della filosofia, l’uso dell’IA per generare immagini può offrire un supporto utile in alcuni contesti, soprattutto quando si lavora su metafore, concetti complessi o visioni del mondo difficili da restituire con le sole parole. L’aspetto più interessante, in questi casi, non è l’immagine in sé, ma il processo di descrizione, selezione e interpretazione che essa attiva.
 
-<div class="info-box">Nella generazione di immagini con IA, di grande importanza è in _promtp_, ossia il testo che descrive l'immagine dal generare. Un promp elaborato e dettagliato darà un'immagine migliore. La valutazione del lavoro dello studente può tener conto proprio del prompt usato (ma è da tener conto che l'IA stessa può elaborare prompt complessi).</div>
+<div class="info-box">Nella generazione di immagini con IA, di grande importanza è il <em>promtp</em>, ossia il testo che descrive l'immagine dal generare. Un prompt elaborato e dettagliato darà un'immagine migliore. La valutazione del lavoro dello studente può tener conto proprio del prompt usato (ma è da tener conto che l'IA stessa può elaborare prompt complessi).</div>
 
-La seguente immagine di esempio, riguardante il mito della caverna (la cosa più scontata da chiedere a una IA), ha richiesto sei tentativi, ed è lontana dall'essere perfetta (che ci fa il fuoco davanti ai prigionieri?).
+La seguente immagine di esempio, riguardante il mito della caverna (la cosa più scontata da chiedere a una IA), ha richiesto sei tentativi, ed è lontana dall'essere perfetta.
 
 <figure>
   <img src="caverna.png">
