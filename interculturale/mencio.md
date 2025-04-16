@@ -4,6 +4,6 @@ Mencio disse: “Tutti gli uomini hanno un cuore-mente (心) che non sopporta di
 
 [^1]: L’avversione per i comportamenti non compassionevoli di altri. 
 
-Mencio, Gong Sun Chou I, 6. Traduzione da The Works of Mencius, a cura di James Legge, Clarendon, Oxford 1985. Versione italiana a cura di Antonio Vigilante, sulla base anche del testo cinese pubblicato nel Chinese Text Project (https://ctext.org/mozi). Licenza CC BY-SA 4.0 International. Tratto da [Monimos. Mondi filosofici](https://www.monimos.org/il-bambino-nel-pozzo.html).
+Mencio, Gong Sun Chou I, 6. Traduzione da _The Works of Mencius_, a cura di James Legge, Clarendon, Oxford 1985. Versione italiana a cura di Antonio Vigilante, sulla base anche del testo cinese pubblicato nel [Chinese Text Project](https://ctext.org/mozi). Licenza CC BY-SA 4.0 International. Tratto da [Monimos. Mondi filosofici](https://www.monimos.org/il-bambino-nel-pozzo.html).
 
 [Torna](./index.md)  
