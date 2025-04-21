@@ -17,7 +17,7 @@ A questa contrapposizione è legata, in Dolci, quella tra _comunicare_ e _trasme
 
 Scrive Dolci in _Dal trasmettere al comunicare_:
 
->Occorre il coraggio, non solo intellettuale, di chiamare comunicazione soltanto il sistema in cui ogni partecipante _co_informa e _co_rrisponde. Nel sistema ora dominante, chi sceglie? chi trasmette? chi informa?[^1]
+>Occorre il coraggio, non solo intellettuale, di chiamare comunicazione soltanto il sistema in cui ogni partecipante coinforma e corrisponde. Nel sistema ora dominante, chi sceglie? chi trasmette? chi informa?[^1]
 
 Per Dolci la scuola è affetta appunto da questa patologia comunicativa. La natura asimmetrica della relazione tra docente e studente fa sì che la comunicazione autentica diventi improbabile in un'aula scolastica, che siano impacciati l'ascolto e lo scambio. La scuola, in sostanza, è funzionale al _dominio_, esattamente come i mass-media, che per Dolci vanno considerati non _mezzi di comunicazione di massa_, ma messi di _trasmissione di massa_. Sia perché non consentono alcuno scambio, sia perché _creano la massa_, mentre il comunicare è sempre comunitario.
 
