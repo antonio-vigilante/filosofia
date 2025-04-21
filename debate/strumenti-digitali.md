@@ -1,4 +1,6 @@
-## Strumenti digitali
+## Il Debate
+
+### Strumenti digitali
 
 Come la Maieutica Reciproca, il Debate è una pratica _analogica_, che non richiede di per sé strumenti digitali. Tuttavia la rete Internet può essere utile per accedere a informazioni (leggi, statistiche ecc.) in fase di studio della mozione da dibattere. È bene invece non consentire in questa fase l'uso dell'Intelligenza Artificiale, che può letteralmente sostituirsi agli studenti, offrendo loro non solo _dati_ su cui ragionare, ma gli stessi argomenti a favore della loro posizione. Così come è da escludere l'uso di una presentazione con PowerPoint o app simile durante la discussione.
 
