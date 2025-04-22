@@ -4,7 +4,7 @@ Twine è uno strumento open source per la creazione di storie interattive e iper
 
 Anche in questo caso partiamo da un esempio:
 
-🔗 [Salvare un bambino che sta annegando?](twine-esempio.html) [(sorgente)](twine-esempio.twee)  
+🔗 [Salvare un bambino che sta annegando?](twine-es.html) [(sorgente)](twine-es.twee)  
 
 Qui abbiamo un percorso basato sull'articolo di Peter Singer <a href="https://newint.org/features/1997/04/05/peter-singer-drowning-child-new-internationalist">The Drowning Child and the Expanding Circle</a>. La struttura è simile a quella generata da Ink, anche se compare un menu che consente di salvare i progressi e di riavviare la storia. Del tutto diversa è però la piattaforma. La storia dell'esempio sulla piattaforma web si presenta come segue.
 
