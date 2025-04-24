@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="https://antonio-vigilante.github.io/filosofia/assets/style.css">
+
+📁 [Intelligenza artificiale e didattica della filosofia](https://antonio-vigilante.github.io/filosofia/ia/)
+
 ## Individuare le fallacie logiche
 
 Lo studio delle fallacie è una parte importante dello studio della logica, che dovrebbe essere parte importante dello studio della filosofia. Se realmente si intende formare al pensiero critico, è fondamentale insegnare agli studenti a riconoscere un ragionamento fallace, soprattutto negli articolo che formano l'opinione pubblica.
