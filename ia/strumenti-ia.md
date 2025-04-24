@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="https://antonio-vigilante.github.io/filosofia/assets/style.css">
+
+📁 [Intelligenza artificiale e didattica della filosofia](https://antonio-vigilante.github.io/filosofia/ia/)
+
 ## Strumenti di IA consigliati 
 
 ### ChatGPT
