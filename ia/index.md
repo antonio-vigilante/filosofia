@@ -6,4 +6,4 @@
 [Generazione di immagini](immagini.md)  
 [Analisi del testo](testo.md)  
 [Individuare le fallacie logiche](fallacie-logiche.md)  
-[Principali strumenti di IA](strumenti-ia.md)  
+[Strumenti di IA consigliati](strumenti-ia.md)  
