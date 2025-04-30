@@ -6,7 +6,8 @@
 
 Lo studio delle fallacie è una parte importante dello studio della logica, che dovrebbe essere parte importante dello studio della filosofia. Se realmente si intende formare al pensiero critico, è fondamentale insegnare agli studenti a riconoscere un ragionamento fallace, soprattutto negli articolo che formano l'opinione pubblica.
 Anche in questo l'IA si rivela uno stumento prezioso.  
-Proviamo a sottoporle un articolo di Camillo Langone dal titolo _Se non mangi l'agnello non sei un cristiano_. Si tratta di un articolo provocatorio, nello stile di Langone. ChatGPT individua sette fallacie logiche in un articolo di sedici righe.    
+Proviamo a sottoporle un articolo di Camillo Langone dal titolo <a href="https://www.ilfoglio.it/preghiera/2025/04/16/news/se-non-mangi-l-agnello-non-sei-un-cristiano-7622147/">
+_Se non mangi l'agnello non sei un cristiano_</a>. Si tratta di un articolo provocatorio, nello stile di Langone. ChatGPT individua sette fallacie logiche in un articolo di sedici righe.    
  
 >L'articolo di Camillo Langone intitolato "Se non mangi l'agnello non sei un cristiano", pubblicato su Il Foglio il 16 aprile 2025, presenta diverse affermazioni provocatorie e opinioni personali che possono essere analizzate attraverso il prisma delle fallacie logiche. Di seguito, alcune delle principali:​
 
