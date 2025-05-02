@@ -31,4 +31,5 @@ Anche la fase successiva allo studio può essere arricchita: ad esempio, dopo av
 
 Nell'ambito di un'attività di laboratorio, gli studenti possono proporre una situazione problematica – ad esempio una questione etica o un paradosso – e chiedere all’IA di mettere in scena due o più voci con posizioni diverse. Oppure possono scrivere in prima persona il proprio pensiero e sollecitare l’IA a reagire, come un interlocutore critico.  
 
-💡 Un esempio di simulazione è 🔗 [questo dialogo con Spinoza sull'etica del non umano](https://www.attraversamenti.info/2025/04/dialogo-con-spinoza-sulletica-del-non-umano.html) 
+💡 Un esempio di simulazione è 🔗 [questo dialogo con Spinoza sull'etica del non umano](https://www.attraversamenti.info/2025/04/dialogo-con-spinoza-sulletica-del-non-umano.html)  
+È consigliata la lettura del 🔗 [libro di Marco Trainito _Filosofare con ChatGPT_](https://antonio-vigilante.github.io/filosofia/ia/Trainito--Filosofare con ChatGPT.pdf).
