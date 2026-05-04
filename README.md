@@ -5,10 +5,7 @@ Questo repository è legato all'insegnamento di [_Esercitazioni di didattica del
 📁 [Pratiche dialogiche](pratiche-dialogiche.md)    
 📁 [Didattica interculturale](interculturale/index.md)   
 📁 [Esercizi filosofici](esercizi-filosofici.md)  
-📁 [Mappe argomentative](mappe-argomentative.md)    
-📁 [Storytelling](storytelling.md)   
-📁 [Intelligenza Artificiale](ia/index.md)
-
+📁 [Textus. Manuale pratico di didattica digitale della filosofia](https://textusweb.netlify.app/)
 
 
 
